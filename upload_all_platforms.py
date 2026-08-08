@@ -18,14 +18,7 @@ if str(root) not in sys.path:
 
 uploaders = {}
 modules = [
-    ("upload_facebook", "upload_to_facebook", "fb"),
-    ("upload_instagram", "upload_to_instagram", "ig"),
     ("upload_to_youtube", "upload_to_youtube", "yt"),
-    ("upload_vk", "upload_to_vk", "vk"),
-    ("upload_telegram", "upload_to_telegram", "tg"),
-    ("upload_twitter", "upload_to_twitter", "tw"),
-    ("upload_threads", "upload_to_threads", "th"),
-    ("upload_tiktok", "upload_to_tiktok", "tk"),
 ]
 for mod_name, func_name, key in modules:
     for prefix in ["upload.", ""]:
@@ -290,7 +283,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
     print(f"VELOCITY {lang_name.upper()} - MULTI-PLATFORM UPLOAD")
     print("="*80)
     if not Path(video_path).exists(): print(f"Video not found"); return results
-    platforms = [("facebook", "fb", "Facebook"), ("instagram", "ig", "Instagram"), ("youtube", "yt", "YouTube"), ("vk", "vk", "VK"), ("telegram", "tg", "Telegram"), ("twitter", "tw", "Twitter"), ("threads", "th", "Threads"), ("tiktok", "tk", "TikTok")]
+    platforms = [("youtube", "yt", "YouTube")]
     for pname, key, dname in platforms:
         results["platforms_attempted"].append(pname)
         func = uploaders.get(key)
