@@ -9834,7 +9834,42 @@
       "transliteration": "Ha'kesher ha'zeh, margish kol kach nachon.",
       "category": "Relationships",
       "generated_at": "2026-08-09T20:30:13.357452"
+    },
+    {
+      "english": "A blink, then gone.",
+      "hebrew": "מצמוץ, ואז נעלם.",
+      "transliteration": "Mitzmutz, v'az ne'elam.",
+      "category": "Time",
+      "generated_at": "2026-08-10T00:41:07.768151"
+    },
+    {
+      "english": "Wait a beat, listen.",
+      "hebrew": "חכה רגע, תקשיב.",
+      "transliteration": "Chake riga, takshiv.",
+      "category": "Time",
+      "generated_at": "2026-08-10T00:41:07.768163"
+    },
+    {
+      "english": "This instant, breathe.",
+      "hebrew": "הרגע הזה, נשום.",
+      "transliteration": "Ha'riga hazeh, neshom.",
+      "category": "Time",
+      "generated_at": "2026-08-10T00:41:07.768165"
+    },
+    {
+      "english": "Seconds slip, like sand.",
+      "hebrew": "שניות חולפות, כמו חול.",
+      "transliteration": "Shniyot cholfot, kmo chol.",
+      "category": "Time",
+      "generated_at": "2026-08-10T00:41:07.768167"
+    },
+    {
+      "english": "The quiet hour, calls.",
+      "hebrew": "השעה השקטה, קוראת.",
+      "transliteration": "Ha'sha'ah ha'shketah, koret.",
+      "category": "Time",
+      "generated_at": "2026-08-10T00:41:07.768168"
     }
   ],
-  "last_updated": "2026-08-09T20:30:13.357455"
+  "last_updated": "2026-08-10T00:41:07.768170"
 }
