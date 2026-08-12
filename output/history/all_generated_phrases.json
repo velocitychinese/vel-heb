@@ -10184,7 +10184,42 @@
       "transliteration": "Ha-behirut ha-zo, ata cholek.",
       "category": "Gratitude",
       "generated_at": "2026-08-12T00:46:28.839912"
+    },
+    {
+      "english": "Listen, a new sound, feels right.",
+      "hebrew": "שְׁמַע, קוֹל חָדָשׁ, מַרְגִּישׁ טוֹב.",
+      "transliteration": "Sh'ma, kol chadash, margish tov.",
+      "category": "Education",
+      "generated_at": "2026-08-12T13:04:17.752389"
+    },
+    {
+      "english": "Letters form magic, watch them.",
+      "hebrew": "אוֹתִיּוֹת יוֹצְרוֹת קֶסֶם, הַבִּיטוּ.",
+      "transliteration": "Otiyot yotzrot kesem, habitu.",
+      "category": "Education",
+      "generated_at": "2026-08-12T13:04:17.752403"
+    },
+    {
+      "english": "Hear the music, in each word.",
+      "hebrew": "שְׁמַע אֶת הַנּוֹגֵן, בְּכָל מִלָּה.",
+      "transliteration": "Sh'ma et hanogen, b'chol milah.",
+      "category": "Education",
+      "generated_at": "2026-08-12T13:04:17.752405"
+    },
+    {
+      "english": "Taste the flavor, of Hebrew.",
+      "hebrew": "טַעֲמִי אֶת הַטַּעַם, שֶׁל עִבְרִית.",
+      "transliteration": "Ta'ami et hata'am, shel Ivrit.",
+      "category": "Education",
+      "generated_at": "2026-08-12T13:04:17.752406"
+    },
+    {
+      "english": "Feel the pulse, of conversation.",
+      "hebrew": "הַרְגִּישׁ אֶת הַדֹּפֶק, שֶׁל הַשִּׂיחָה.",
+      "transliteration": "Hargish et hadofek, shel hasichah.",
+      "category": "Education",
+      "generated_at": "2026-08-12T13:04:17.752407"
     }
   ],
-  "last_updated": "2026-08-12T00:46:28.839914"
+  "last_updated": "2026-08-12T13:04:17.752409"
 }
