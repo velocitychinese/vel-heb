@@ -10254,7 +10254,42 @@
       "transliteration": "Le'ametz et ha'etgar, lehit'alot.",
       "category": "Sports",
       "generated_at": "2026-08-12T17:52:54.481761"
+    },
+    {
+      "english": "Inner strength, a quiet river.",
+      "hebrew": "כוח פנימי, נהר שקט.",
+      "transliteration": "Koach pnimi, nahar shaket.",
+      "category": "Strength",
+      "generated_at": "2026-08-12T20:42:33.880995"
+    },
+    {
+      "english": "Resilience blooms, like a desert flower.",
+      "hebrew": "חוסן פורח, כמו פרח מדבר.",
+      "transliteration": "Chosen poreach, kmo perach midbar.",
+      "category": "Strength",
+      "generated_at": "2026-08-12T20:42:33.881004"
+    },
+    {
+      "english": "Your spirit, a steady flame.",
+      "hebrew": "רוחך, להבה יציבה.",
+      "transliteration": "Ruach'cha, lehavah yetziva.",
+      "category": "Strength",
+      "generated_at": "2026-08-12T20:42:33.881006"
+    },
+    {
+      "english": "With courage, you create.",
+      "hebrew": "באומץ, אתה יוצר.",
+      "transliteration": "Be'ometz, ata yotzer.",
+      "category": "Strength",
+      "generated_at": "2026-08-12T20:42:33.881007"
+    },
+    {
+      "english": "A determined heart, finds its path.",
+      "hebrew": "לב נחוש, מוצא דרכו.",
+      "transliteration": "Lev nachush, motzeh dracho.",
+      "category": "Strength",
+      "generated_at": "2026-08-12T20:42:33.881008"
     }
   ],
-  "last_updated": "2026-08-12T17:52:54.481763"
+  "last_updated": "2026-08-12T20:42:33.881010"
 }
