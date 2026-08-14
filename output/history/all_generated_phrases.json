@@ -10534,7 +10534,42 @@
       "transliteration": "Akof achar ha'mivta, metza et ha'ketzev.",
       "category": "Growth",
       "generated_at": "2026-08-14T14:56:52.224010"
+    },
+    {
+      "english": "The mind, a vast ocean.",
+      "hebrew": "המוח, אוקיינוס עצום.",
+      "transliteration": "Ha-mo'ach, okyanus atzum.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T17:46:05.330144"
+    },
+    {
+      "english": "Her heart, beats a rhythm.",
+      "hebrew": "ליבה, פועם במקצב.",
+      "transliteration": "Libah, po'em be-miktzav.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T17:46:05.330152"
+    },
+    {
+      "english": "His voice, a low rumble.",
+      "hebrew": "קולו, רעם עמוק.",
+      "transliteration": "Kolo, ra'am amok.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T17:46:05.330154"
+    },
+    {
+      "english": "A furrowed brow, deep thought.",
+      "hebrew": "מצח מקומט, מחשבה עמוקה.",
+      "transliteration": "Metzach meku'mat, machshava amuka.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T17:46:05.330155"
+    },
+    {
+      "english": "Her forehead, a canvas.",
+      "hebrew": "מצחה, קנבס.",
+      "transliteration": "Metza'ah, kanvas.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T17:46:05.330157"
     }
   ],
-  "last_updated": "2026-08-14T14:56:52.224012"
+  "last_updated": "2026-08-14T17:46:05.330158"
 }
