@@ -10814,7 +10814,42 @@
       "transliteration": "Rasiss shel zman, yakar, cholef.",
       "category": "Time",
       "generated_at": "2026-08-16T00:27:32.997436"
+    },
+    {
+      "english": "Open the screen, find your way.",
+      "hebrew": "פתחו את המסך, מצאו את דרככם.",
+      "transliteration": "P't'chu et ha'masach, m'tzu et drache'chem.",
+      "category": "Technology",
+      "generated_at": "2026-08-16T12:34:13.570223"
+    },
+    {
+      "english": "Log in, step inside.",
+      "hebrew": "התחברו, היכנסו פנימה.",
+      "transliteration": "Hitchab'ru, hikan'su p'nima.",
+      "category": "Technology",
+      "generated_at": "2026-08-16T12:34:13.570234"
+    },
+    {
+      "english": "Download joy, install peace.",
+      "hebrew": "הורידו שמחה, התקינו שלווה.",
+      "transliteration": "Horidu simcha, hatkinu sh'lava.",
+      "category": "Technology",
+      "generated_at": "2026-08-16T12:34:13.570235"
+    },
+    {
+      "english": "Every click, a new journey.",
+      "hebrew": "כל קליק, מסע חדש.",
+      "transliteration": "Kol klik, masa chadash.",
+      "category": "Technology",
+      "generated_at": "2026-08-16T12:34:13.570247"
+    },
+    {
+      "english": "Type your dreams, watch them bloom.",
+      "hebrew": "הקלידו את חלומותיכם, ראו אותם פורחים.",
+      "transliteration": "Hak'lidu et chalomoteichem, reu otam porchim.",
+      "category": "Technology",
+      "generated_at": "2026-08-16T12:34:13.570248"
     }
   ],
-  "last_updated": "2026-08-16T00:27:32.997437"
+  "last_updated": "2026-08-16T12:34:13.570250"
 }
