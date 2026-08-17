@@ -11059,7 +11059,42 @@
       "transliteration": "Ha'matzpen sheli, tamid amiti.",
       "category": "Relationships",
       "generated_at": "2026-08-17T14:33:56.792805"
+    },
+    {
+      "english": "This design, is stunning.",
+      "hebrew": "העיצוב הזה, מהמם.",
+      "transliteration": "Ha'itzuv hazeh, mehamem.",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T17:20:14.886396"
+    },
+    {
+      "english": "I’m intrigued, by this.",
+      "hebrew": "מסקרן אותי, זה.",
+      "transliteration": "Maskren oti, zeh.",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T17:20:14.886407"
+    },
+    {
+      "english": "Could you recommend, something unique?",
+      "hebrew": "תוכל להמליץ, על משהו מיוחד?",
+      "transliteration": "Tuchal lehamlitz, al mashehu meyuchad?",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T17:20:14.886409"
+    },
+    {
+      "english": "Is this, a limited edition?",
+      "hebrew": "זו, מהדורה מוגבלת?",
+      "transliteration": "Zo, mehdurah mugbelet?",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T17:20:14.886410"
+    },
+    {
+      "english": "I’m looking for, a statement piece.",
+      "hebrew": "אני מחפש, פריט דומיננטי.",
+      "transliteration": "Ani mechapes, parit dominanti.",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T17:20:14.886412"
     }
   ],
-  "last_updated": "2026-08-17T14:33:56.792806"
+  "last_updated": "2026-08-17T17:20:14.886414"
 }
