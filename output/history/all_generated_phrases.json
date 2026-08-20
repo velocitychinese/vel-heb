@@ -11514,7 +11514,42 @@
       "transliteration": "Hachosen hazeh, shelach.",
       "category": "Strength",
       "generated_at": "2026-08-20T12:43:23.905087"
+    },
+    {
+      "english": "Ready when you are, really.",
+      "hebrew": "מוכנים כשתהיו, באמת.",
+      "transliteration": "Muchanim kshe'tiyeu, be'emet.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-20T14:41:28.848430"
+    },
+    {
+      "english": "Just a little bit, longer.",
+      "hebrew": "עוד קצת, רק.",
+      "transliteration": "Od ktzat, rak.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-20T14:41:28.848439"
+    },
+    {
+      "english": "What a surprise, wow!",
+      "hebrew": "איזו הפתעה, וואו!",
+      "transliteration": "Eizo hafata'ah, wow!",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-20T14:41:28.848441"
+    },
+    {
+      "english": "This is the place, I think.",
+      "hebrew": "זה המקום, נראה לי.",
+      "transliteration": "Ze hamakom, nir'eh li.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-20T14:41:28.848442"
+    },
+    {
+      "english": "Hang in there, almost done.",
+      "hebrew": "תחזיקו מעמד, כמעט סיימנו.",
+      "transliteration": "Tachziku ma'amad, kim'at siyamnu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-20T14:41:28.848443"
     }
   ],
-  "last_updated": "2026-08-20T12:43:23.905089"
+  "last_updated": "2026-08-20T14:41:28.848445"
 }
