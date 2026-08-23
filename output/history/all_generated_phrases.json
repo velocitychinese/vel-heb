@@ -12039,7 +12039,42 @@
       "transliteration": "Shalvah mityashevet, al libi.",
       "category": "Happiness",
       "generated_at": "2026-08-23T12:34:51.298212"
+    },
+    {
+      "english": "This hummus, is incredibly creamy.",
+      "hebrew": "החומוס הזה, קרמי להפליא.",
+      "transliteration": "Ha-chumus hazeh, kremi le-hafla'ah.",
+      "category": "Food",
+      "generated_at": "2026-08-23T14:28:37.980894"
+    },
+    {
+      "english": "Could I get, some extra tahini?",
+      "hebrew": "אפשר עוד טחינה, בבקשה?",
+      "transliteration": "Efshar od tchina, bevakasha?",
+      "category": "Food",
+      "generated_at": "2026-08-23T14:28:37.980905"
+    },
+    {
+      "english": "The pita, is perfectly warm.",
+      "hebrew": "הפיתה, חמה בול.",
+      "transliteration": "Ha-pita, chama bul.",
+      "category": "Food",
+      "generated_at": "2026-08-23T14:28:37.980907"
+    },
+    {
+      "english": "I love, this herb blend.",
+      "hebrew": "אני אוהב, את תערובת העשבים.",
+      "transliteration": "Ani ohev, et ta'arovet ha'asavim.",
+      "category": "Food",
+      "generated_at": "2026-08-23T14:28:37.980908"
+    },
+    {
+      "english": "A little lemon, squeezed on top.",
+      "hebrew": "קצת לימון, סחוט מלמעלה.",
+      "transliteration": "Ktzat limon, s'chut mi-le'mala.",
+      "category": "Food",
+      "generated_at": "2026-08-23T14:28:37.980910"
     }
   ],
-  "last_updated": "2026-08-23T12:34:51.298214"
+  "last_updated": "2026-08-23T14:28:37.980911"
 }
