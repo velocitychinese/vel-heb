@@ -12179,7 +12179,42 @@
       "transliteration": "Ata mashlim, et hapo'azel sheli.",
       "category": "Love",
       "generated_at": "2026-08-24T00:26:52.287165"
+    },
+    {
+      "english": "Now, a fresh start.",
+      "hebrew": "עכשיו, התחלה חדשה.",
+      "transliteration": "Achshav, hatchala chadasha.",
+      "category": "Time",
+      "generated_at": "2026-08-24T12:43:52.992777"
+    },
+    {
+      "english": "Soon, adventure awaits.",
+      "hebrew": "בקרוב, הרפתקה מחכה.",
+      "transliteration": "Be'karov, harpatka mechaka.",
+      "category": "Time",
+      "generated_at": "2026-08-24T12:43:52.992788"
+    },
+    {
+      "english": "Later, we'll remember.",
+      "hebrew": "מאוחר יותר, נזכור.",
+      "transliteration": "Me'uchar yoter, nizkor.",
+      "category": "Time",
+      "generated_at": "2026-08-24T12:43:52.992790"
+    },
+    {
+      "english": "This second, breathe deep.",
+      "hebrew": "השנייה הזו, נשום עמוק.",
+      "transliteration": "Ha'shniya ha'zo, nashom amok.",
+      "category": "Time",
+      "generated_at": "2026-08-24T12:43:52.992792"
+    },
+    {
+      "english": "Once, a quiet whisper.",
+      "hebrew": "פעם, לחישה שקטה.",
+      "transliteration": "Pa'am, lechisha shketa.",
+      "category": "Time",
+      "generated_at": "2026-08-24T12:43:52.992793"
     }
   ],
-  "last_updated": "2026-08-24T00:26:52.287167"
+  "last_updated": "2026-08-24T12:43:52.992795"
 }
