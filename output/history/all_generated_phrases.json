@@ -12424,7 +12424,42 @@
       "transliteration": "Har'gi'u k'tefeichem, shach'reru.",
       "category": "Health",
       "generated_at": "2026-08-25T14:52:24.747574"
+    },
+    {
+      "english": "A garden gnome, painted bright red.",
+      "hebrew": "גמד גינה, צבוע אדום בוהק.",
+      "transliteration": "Gmad ginah, tza'vu adom bohek.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T17:24:43.171031"
+    },
+    {
+      "english": "The desert sand, a warm ochre.",
+      "hebrew": "חול המדבר, צהוב-חום חמים.",
+      "transliteration": "Chol hamidbar, tzahov-chum chamim.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T17:24:43.171042"
+    },
+    {
+      "english": "Her scarf, a deep sapphire.",
+      "hebrew": "הצעיף שלה, ספיר עמוק.",
+      "transliteration": "Hatzai'if shelah, sapir amok.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T17:24:43.171044"
+    },
+    {
+      "english": "That old map, faded sepia.",
+      "hebrew": "המפה הישנה, ספיה דהויה.",
+      "transliteration": "Hamapah hayeshana, sepia dehuya.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T17:24:43.171045"
+    },
+    {
+      "english": "A forest canopy, lush emerald.",
+      "hebrew": "חופת היער, ירוק אזמרגד שופע.",
+      "transliteration": "Chufat hayear, yarok ezmeragd shofe'a.",
+      "category": "Colors",
+      "generated_at": "2026-08-25T17:24:43.171047"
     }
   ],
-  "last_updated": "2026-08-25T14:52:24.747576"
+  "last_updated": "2026-08-25T17:24:43.171048"
 }
