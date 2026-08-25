@@ -12319,7 +12319,42 @@
       "transliteration": "t'viat ha-regel ha-digitalit shelcha, chashuva.",
       "category": "Technology",
       "generated_at": "2026-08-24T20:28:41.306469"
+    },
+    {
+      "english": "A good day, to you.",
+      "hebrew": "יום טוב, לך.",
+      "transliteration": "Yom tov, lecha.",
+      "category": "Greetings",
+      "generated_at": "2026-08-25T00:26:52.966238"
+    },
+    {
+      "english": "Welcome, new friend.",
+      "hebrew": "ברוך הבא, חבר חדש.",
+      "transliteration": "Baruch haba, chaver chadash.",
+      "category": "Greetings",
+      "generated_at": "2026-08-25T00:26:52.966250"
+    },
+    {
+      "english": "Hope you're well.",
+      "hebrew": "מקווה, שאתה בסדר.",
+      "transliteration": "Mekaveh, she'ata beseder.",
+      "category": "Greetings",
+      "generated_at": "2026-08-25T00:26:52.966252"
+    },
+    {
+      "english": "It's a pleasure, truly.",
+      "hebrew": "זו שמחה, באמת.",
+      "transliteration": "Zo simcha, be'emet.",
+      "category": "Greetings",
+      "generated_at": "2026-08-25T00:26:52.966254"
+    },
+    {
+      "english": "Glad our paths, crossed.",
+      "hebrew": "שמח, שדרכינו הצטלבו.",
+      "transliteration": "Same'ach, she'darkeynu hitz-talvu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-25T00:26:52.966255"
     }
   ],
-  "last_updated": "2026-08-24T20:28:41.306470"
+  "last_updated": "2026-08-25T00:26:52.966257"
 }
