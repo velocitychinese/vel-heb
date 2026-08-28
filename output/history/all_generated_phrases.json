@@ -12879,7 +12879,42 @@
       "transliteration": "Zahar ba'or, al tatil tzel.",
       "category": "Balance",
       "generated_at": "2026-08-28T07:09:25.682476"
+    },
+    {
+      "english": "This city, it buzzes.",
+      "hebrew": "העיר הזו, היא רוחשת.",
+      "transliteration": "Ha'ir hazu, hi rocheshet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-28T21:44:06.247355"
+    },
+    {
+      "english": "The music, it calls.",
+      "hebrew": "המוזיקה, היא קוראת.",
+      "transliteration": "Hamoizka, hi koret.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-28T21:44:06.247369"
+    },
+    {
+      "english": "That color, it pops.",
+      "hebrew": "הצבע הזה, בולט.",
+      "transliteration": "Hatz'va hazeh, bolet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-28T21:44:06.247371"
+    },
+    {
+      "english": "Let's find, a quiet spot.",
+      "hebrew": "בוא נמצא, פינה שקטה.",
+      "transliteration": "Bo nimtza, peenah shketah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-28T21:44:06.247373"
+    },
+    {
+      "english": "The story, it's intriguing.",
+      "hebrew": "הסיפור, מסקרן.",
+      "transliteration": "Hasipur, mesakren.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-28T21:44:06.247375"
     }
   ],
-  "last_updated": "2026-08-28T07:09:25.682477"
+  "last_updated": "2026-08-28T21:44:06.247377"
 }
