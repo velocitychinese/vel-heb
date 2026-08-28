@@ -12774,7 +12774,42 @@
       "transliteration": "Anachnu muchanim, lehazmin achshav.",
       "category": "Restaurant",
       "generated_at": "2026-08-27T23:41:42.601194"
+    },
+    {
+      "english": "The mountain, does not move quickly.",
+      "hebrew": "ההר, לא זז מהר.",
+      "transliteration": "Ha'har, lo zaz maher.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:14:40.393982"
+    },
+    {
+      "english": "Listen closely, to silence.",
+      "hebrew": "הקשב היטב, לשקט.",
+      "transliteration": "Hak'shev heitev, la'sheket.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:14:40.393993"
+    },
+    {
+      "english": "Let the water, find its way.",
+      "hebrew": "תן למים, למצוא דרכם.",
+      "transliteration": "Ten la'mayim, limtzo darkam.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:14:40.393995"
+    },
+    {
+      "english": "Trust the unfolding, step by step.",
+      "hebrew": "סמוך על הפריסה, צעד אחר צעד.",
+      "transliteration": "Samuch al ha'prisa, tza'ad achar tza'ad.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:14:40.393997"
+    },
+    {
+      "english": "The path appears, as you walk.",
+      "hebrew": "הדרך נגלית, בזמן ההליכה.",
+      "transliteration": "Ha'derech niglet, bizman ha'haliha.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:14:40.393998"
     }
   ],
-  "last_updated": "2026-08-27T23:41:42.601195"
+  "last_updated": "2026-08-28T01:14:40.393999"
 }
