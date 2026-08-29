@@ -13159,7 +13159,42 @@
       "transliteration": "G'vah, yashar, g'eh.",
       "category": "Body Parts",
       "generated_at": "2026-08-29T19:35:11.593115"
+    },
+    {
+      "english": "Truth, like light, shines.",
+      "hebrew": "אמת, כאור, זורחת.",
+      "transliteration": "Emet, ke'or, zorachat.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:21:56.994636"
+    },
+    {
+      "english": "Kindness, a quiet echo.",
+      "hebrew": "חסד, הדהוד שקט.",
+      "transliteration": "Chesed, hidhud sheket.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:21:56.994645"
+    },
+    {
+      "english": "Learn from shadows, too.",
+      "hebrew": "למד גם, מהצללים.",
+      "transliteration": "Lamed gam, mehatzelalim.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:21:56.994647"
+    },
+    {
+      "english": "Courage, a steady breath.",
+      "hebrew": "אומץ, נשימה יציבה.",
+      "transliteration": "Ometz, neshima yetziva.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:21:56.994648"
+    },
+    {
+      "english": "Growth, unexpected turns.",
+      "hebrew": "צמיחה, פניות מפתיעות.",
+      "transliteration": "Tzmicha, pniyot maftiyot.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:21:56.994649"
     }
   ],
-  "last_updated": "2026-08-29T19:35:11.593117"
+  "last_updated": "2026-08-29T22:21:56.994651"
 }
