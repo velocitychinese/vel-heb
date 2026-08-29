@@ -13124,7 +13124,42 @@
       "transliteration": "Kolchem, motze et darko hachadasha.",
       "category": "Purpose",
       "generated_at": "2026-08-29T17:38:15.064400"
+    },
+    {
+      "english": "Her neck, slender, graceful.",
+      "hebrew": "צווארה, דק, חינני.",
+      "transliteration": "Tzavara, dak, chinani.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-29T19:35:11.593101"
+    },
+    {
+      "english": "His chest, strong, broad.",
+      "hebrew": "חזהו, חזק, רחב.",
+      "transliteration": "Chazo, chazak, rachav.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-29T19:35:11.593111"
+    },
+    {
+      "english": "Her waist, a gentle curve.",
+      "hebrew": "מותנה, קימור עדין.",
+      "transliteration": "Motna, kimur adin.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-29T19:35:11.593113"
+    },
+    {
+      "english": "His stomach, a quiet ache.",
+      "hebrew": "בטנו, כאב שקט.",
+      "transliteration": "B't'no, ke'ev sheket.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-29T19:35:11.593114"
+    },
+    {
+      "english": "Her back, straight, proud.",
+      "hebrew": "גבה, ישר, גאה.",
+      "transliteration": "G'vah, yashar, g'eh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-29T19:35:11.593115"
     }
   ],
-  "last_updated": "2026-08-29T17:38:15.064402"
+  "last_updated": "2026-08-29T19:35:11.593117"
 }
