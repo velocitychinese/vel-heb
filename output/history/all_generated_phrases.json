@@ -13229,7 +13229,42 @@
       "transliteration": "Ha-dvash hazeh, ta'amo kmo bar.",
       "category": "Food",
       "generated_at": "2026-08-30T01:48:51.784079"
+    },
+    {
+      "english": "Face the storm, head on.",
+      "hebrew": "פגוש את הסערה, ישר.",
+      "transliteration": "P'gosh et has'arah, yashar.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T16:01:49.617364"
+    },
+    {
+      "english": "Hold your ground, firmly.",
+      "hebrew": "החזק את עמדתך, בחוזקה.",
+      "transliteration": "Hach'zek et imid'cha, bechozka.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T16:01:49.617373"
+    },
+    {
+      "english": "When fear knocks, open.",
+      "hebrew": "כאשר הפחד דופק, פתח.",
+      "transliteration": "Ka'asher hapachad dofek, p'tach.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T16:01:49.617375"
+    },
+    {
+      "english": "Trust the journey, ahead.",
+      "hebrew": "סמוך על המסע, מלפנים.",
+      "transliteration": "S'moch al hamsaa, milefanai.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T16:01:49.617376"
+    },
+    {
+      "english": "Rise above, the noise.",
+      "hebrew": "קום מעל, הרעש.",
+      "transliteration": "Kum me'al, hara'ash.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T16:01:49.617377"
     }
   ],
-  "last_updated": "2026-08-30T01:48:51.784081"
+  "last_updated": "2026-08-30T16:01:49.617378"
 }
