@@ -13614,7 +13614,42 @@
       "transliteration": "Ani shokel, et hakniyah hazu.",
       "category": "Shopping",
       "generated_at": "2026-09-01T16:03:16.212985"
+    },
+    {
+      "english": "The whistle blows, the game starts.",
+      "hebrew": "השריקה נשמעת, המשחק מתחיל.",
+      "transliteration": "Ha-sh'rika nishma'at, ha-mischak matchil.",
+      "category": "Sports",
+      "generated_at": "2026-09-01T17:46:27.681995"
+    },
+    {
+      "english": "Agility, is key.",
+      "hebrew": "זריזות, היא המפתח.",
+      "transliteration": "Zrizut, hi ha-mafte'ach.",
+      "category": "Sports",
+      "generated_at": "2026-09-01T17:46:27.682006"
+    },
+    {
+      "english": "We rise, together.",
+      "hebrew": "אנחנו עולים, ביחד.",
+      "transliteration": "Anachnu olim, be-yachad.",
+      "category": "Sports",
+      "generated_at": "2026-09-01T17:46:27.682007"
+    },
+    {
+      "english": "Second chances, are rare.",
+      "hebrew": "הזדמנויות שנייה, נדירות.",
+      "transliteration": "Hizdamaniyot shniya, nedirot.",
+      "category": "Sports",
+      "generated_at": "2026-09-01T17:46:27.682009"
+    },
+    {
+      "english": "Every stride, counts.",
+      "hebrew": "כל צעד, נחשב.",
+      "transliteration": "Kol tza'ad, nechshav.",
+      "category": "Sports",
+      "generated_at": "2026-09-01T17:46:27.682023"
     }
   ],
-  "last_updated": "2026-09-01T16:03:16.212986"
+  "last_updated": "2026-09-01T17:46:27.682025"
 }
