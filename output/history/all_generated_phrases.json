@@ -13684,7 +13684,42 @@
       "transliteration": "hanahar zorem, hala.",
       "category": "Hope",
       "generated_at": "2026-09-01T19:42:42.118317"
+    },
+    {
+      "english": "This hummus, is extra smooth.",
+      "hebrew": "החומוס הזה, מאוד חלק.",
+      "transliteration": "Hachumus hazeh, me'od chalak.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-01T22:23:41.520638"
+    },
+    {
+      "english": "Could we, try, a small bite?",
+      "hebrew": "אפשר, לטעום, קצת?",
+      "transliteration": "Efshar, lit'om, ktzat?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-01T22:23:41.520653"
+    },
+    {
+      "english": "What's, a good, vegetarian option?",
+      "hebrew": "מה, אופציה, טובה לצמחונים?",
+      "transliteration": "Ma, ofciyah, tovah letzimchonim?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-01T22:23:41.520655"
+    },
+    {
+      "english": "This stew, is so hearty.",
+      "hebrew": "התבשיל הזה, ממש משביע.",
+      "transliteration": "Hatavshil hazeh, mamash mashbi'a.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-01T22:23:41.520657"
+    },
+    {
+      "english": "Could I, have, a glass of milk?",
+      "hebrew": "אפשר, כוס, חלב?",
+      "transliteration": "Efshar, kos, chalav?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-01T22:23:41.520658"
     }
   ],
-  "last_updated": "2026-09-01T19:42:42.118318"
+  "last_updated": "2026-09-01T22:23:41.520661"
 }
