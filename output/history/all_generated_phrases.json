@@ -13789,7 +13789,42 @@
       "transliteration": "Ruchot chamot, yivarech otkha.",
       "category": "Greetings",
       "generated_at": "2026-09-02T17:55:15.867230"
+    },
+    {
+      "english": "Sky weeps softly, a gentle sigh.",
+      "hebrew": "שמיים בוכים ברכות, אנחה עדינה.",
+      "transliteration": "Shamayim bochim b'rachot, anacha adina.",
+      "category": "Weather",
+      "generated_at": "2026-09-02T19:34:54.743403"
+    },
+    {
+      "english": "Air is thick, almost still.",
+      "hebrew": "אוויר סמיך, כמעט דומם.",
+      "transliteration": "Avir samich, kim'at domem.",
+      "category": "Weather",
+      "generated_at": "2026-09-02T19:34:54.743412"
+    },
+    {
+      "english": "Golden rays, warm the soil.",
+      "hebrew": "קרניים זהובות, מחממות את האדמה.",
+      "transliteration": "Karnayim zehuvot, mechamemot et ha'adama.",
+      "category": "Weather",
+      "generated_at": "2026-09-02T19:34:54.743414"
+    },
+    {
+      "english": "Wind whispers secrets, through the trees.",
+      "hebrew": "רוח לוחשת סודות, בין העצים.",
+      "transliteration": "Ruach locheshet sodot, bein ha'etzim.",
+      "category": "Weather",
+      "generated_at": "2026-09-02T19:34:54.743416"
+    },
+    {
+      "english": "Grey blanket, covers the world.",
+      "hebrew": "שמיכה אפורה, מכסה את העולם.",
+      "transliteration": "S'michaפורa, mechesa et ha'olam.",
+      "category": "Weather",
+      "generated_at": "2026-09-02T19:34:54.743417"
     }
   ],
-  "last_updated": "2026-09-02T17:55:15.867232"
+  "last_updated": "2026-09-02T19:34:54.743419"
 }
