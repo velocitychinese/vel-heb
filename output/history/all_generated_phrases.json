@@ -15084,7 +15084,42 @@
       "transliteration": "M'tze sheket, ba'rega.",
       "category": "Strength",
       "generated_at": "2026-09-10T15:49:57.490655"
+    },
+    {
+      "english": "This has, real character.",
+      "hebrew": "זה בעל, אופי אמיתי.",
+      "transliteration": "zeh ba'al, orefemiti.",
+      "category": "Shopping",
+      "generated_at": "2026-09-10T17:36:47.074430"
+    },
+    {
+      "english": "I'm drawn, to the craftsmanship.",
+      "hebrew": "אני נמשך, לאומנות.",
+      "transliteration": "ani nimshach, la'omanut.",
+      "category": "Shopping",
+      "generated_at": "2026-09-10T17:36:47.074441"
+    },
+    {
+      "english": "Does this, have a story?",
+      "hebrew": "האם לזה, יש סיפור?",
+      "transliteration": "ha'im lezeh, yesh sipur?",
+      "category": "Shopping",
+      "generated_at": "2026-09-10T17:36:47.074443"
+    },
+    {
+      "english": "This piece, feels special.",
+      "hebrew": "הפריט הזה, מרגיש מיוחד.",
+      "transliteration": "haprit hazeh, margish meyuchad.",
+      "category": "Shopping",
+      "generated_at": "2026-09-10T17:36:47.074445"
+    },
+    {
+      "english": "I love the, subtle details.",
+      "hebrew": "אני אוהב את, הפרטים העדינים.",
+      "transliteration": "ani ohev et, hapratim ha'adinim.",
+      "category": "Shopping",
+      "generated_at": "2026-09-10T17:36:47.074446"
     }
   ],
-  "last_updated": "2026-09-10T15:49:57.490656"
+  "last_updated": "2026-09-10T17:36:47.074448"
 }
