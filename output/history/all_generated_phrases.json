@@ -15574,7 +15574,42 @@
       "transliteration": "Kol sikha, derech chadasha.",
       "category": "Growth",
       "generated_at": "2026-09-13T15:36:28.170812"
+    },
+    {
+      "english": "What's, a local, recommendation?",
+      "hebrew": "מה, המלצה, מקומית?",
+      "transliteration": "Ma, hamlatsa, mekomit?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-13T17:22:06.638502"
+    },
+    {
+      "english": "This aroma, is wonderful.",
+      "hebrew": "הריח, הזה, נפלא.",
+      "transliteration": "Ha-re'ach, ha-ze, nifla.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-13T17:22:06.638514"
+    },
+    {
+      "english": "Could we, start, with appetizers?",
+      "hebrew": "אפשר, להתחיל, עם מנות, ראשונות?",
+      "transliteration": "Efshar, lehatkhil, im manot, rishonot?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-13T17:22:06.638516"
+    },
+    {
+      "english": "I'm curious, about this dish.",
+      "hebrew": "אני, סקרן, לגבי, המנה, הזו.",
+      "transliteration": "Ani, sakran, legabei, ha-mana, ha-zo.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-13T17:22:06.638517"
+    },
+    {
+      "english": "Is it, very spicy, this one?",
+      "hebrew": "זה, חריף, מאוד, זה?",
+      "transliteration": "Ze, charif, me'od, ze?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-13T17:22:06.638519"
     }
   ],
-  "last_updated": "2026-09-13T15:36:28.170814"
+  "last_updated": "2026-09-13T17:22:06.638521"
 }
