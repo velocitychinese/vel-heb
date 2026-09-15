@@ -15959,7 +15959,42 @@
       "transliteration": "Ha'milim shelcha, hen me'orerot hashra'ah.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-15T18:03:45.221160"
+    },
+    {
+      "english": "This breeze, feels amazing.",
+      "hebrew": "הרוח הזו, מרגישה מדהים.",
+      "transliteration": "Ha-ruach ha-zo, margisha madhim.",
+      "category": "Travel",
+      "generated_at": "2026-09-15T19:56:57.564574"
+    },
+    {
+      "english": "Where is, the nearest oasis?",
+      "hebrew": "איפה, נווה המדבר הקרוב?",
+      "transliteration": "Eifo, naveh ha-midbar ha-karov?",
+      "category": "Travel",
+      "generated_at": "2026-09-15T19:56:57.564586"
+    },
+    {
+      "english": "I’d like, one of those.",
+      "hebrew": "ארצה, אחת מאלו.",
+      "transliteration": "Artseh, akhat me-elu.",
+      "category": "Travel",
+      "generated_at": "2026-09-15T19:56:57.564587"
+    },
+    {
+      "english": "May I take, a quick photo?",
+      "hebrew": "אפשר לצלם, תמונה מהירה?",
+      "transliteration": "Efshar letzalem, tmuna mehira?",
+      "category": "Travel",
+      "generated_at": "2026-09-15T19:56:57.564588"
+    },
+    {
+      "english": "This music, is so lively.",
+      "hebrew": "המוזיקה הזו, כל כך קצבית.",
+      "transliteration": "Ha-muzika ha-zo, kol kakh ketsivit.",
+      "category": "Travel",
+      "generated_at": "2026-09-15T19:56:57.564590"
     }
   ],
-  "last_updated": "2026-09-15T18:03:45.221162"
+  "last_updated": "2026-09-15T19:56:57.564592"
 }
