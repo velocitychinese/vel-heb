@@ -16099,7 +16099,42 @@
       "transliteration": "simcha shketa, benochachut'cha.",
       "category": "Relationships",
       "generated_at": "2026-09-16T16:07:54.433219"
+    },
+    {
+      "english": "You've got this, really.",
+      "hebrew": "את/ה יכול/ה, באמת.",
+      "transliteration": "At/a yakhol/a, be'emet.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T18:02:54.481034"
+    },
+    {
+      "english": "Keep going, friend.",
+      "hebrew": "המשיכו, חבר.",
+      "transliteration": "Hamshikhu, khaver.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T18:02:54.481043"
+    },
+    {
+      "english": "Amazing progress, see?",
+      "hebrew": "התקדמות מדהימה, רואים?",
+      "transliteration": "Hitkadmut madhima, ro'im?",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T18:02:54.481045"
+    },
+    {
+      "english": "Breathe deep, speak.",
+      "hebrew": "נשמו עמוק, דברו.",
+      "transliteration": "Nishmu amok, dabru.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T18:02:54.481046"
+    },
+    {
+      "english": "That sounded great!",
+      "hebrew": "זה נשמע מצוין!",
+      "transliteration": "Ze nishma metzuyan!",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T18:02:54.481048"
     }
   ],
-  "last_updated": "2026-09-16T16:07:54.433220"
+  "last_updated": "2026-09-16T18:02:54.481049"
 }
