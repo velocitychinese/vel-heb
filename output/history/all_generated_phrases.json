@@ -16484,7 +16484,42 @@
       "transliteration": "Brokhot zor'mot, k'mo mayim.",
       "category": "Holidays",
       "generated_at": "2026-09-18T19:21:28.414620"
+    },
+    {
+      "english": "Light shines, on the path.",
+      "hebrew": "אור זורח, על הדרך.",
+      "transliteration": "Or zoréakh, al ha-dérekh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-18T22:18:25.725493"
+    },
+    {
+      "english": "Listen closely, my friend.",
+      "hebrew": "הקשב היטב, ידידי.",
+      "transliteration": "Hakshév haytév, yedidí.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-18T22:18:25.725502"
+    },
+    {
+      "english": "Water flows, to the sea.",
+      "hebrew": "מים זורמים, אל הים.",
+      "transliteration": "Mayim zor'mím, el ha-yam.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-18T22:18:25.725504"
+    },
+    {
+      "english": "A gentle whisper, in the wind.",
+      "hebrew": "לחישה עדינה, ברוח.",
+      "transliteration": "Lekhisha adína, ba-ruakh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-18T22:18:25.725505"
+    },
+    {
+      "english": "Seeds planted, will grow.",
+      "hebrew": "זרעים נטועים, יצמחו.",
+      "transliteration": "Zra'ím n'tu'ím, yitzm'khú.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-18T22:18:25.725506"
     }
   ],
-  "last_updated": "2026-09-18T19:21:28.414622"
+  "last_updated": "2026-09-18T22:18:25.725508"
 }
