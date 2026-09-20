@@ -16799,7 +16799,42 @@
       "transliteration": "Ten l'mishpatim lizrom, kmo mayim.",
       "category": "Growth",
       "generated_at": "2026-09-20T17:22:14.318823"
+    },
+    {
+      "english": "This starter, is a delightful beginning.",
+      "hebrew": "המנה הראשונה הזו, היא התחלה נהדרת.",
+      "transliteration": "Ha-mana ha-rishona ha-zo, hi hat'chala nehederet.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T19:13:06.824100"
+    },
+    {
+      "english": "Could we, explore, the dessert options?",
+      "hebrew": "אפשר, לבדוק, את אפשרויות הקינוח?",
+      "transliteration": "Efshar, livdok, et efsharuyot ha-kinuach?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T19:13:06.824112"
+    },
+    {
+      "english": "What's, the chef's, latest creation?",
+      "hebrew": "מה, היצירה, האחרונה של השף?",
+      "transliteration": "Ma, ha-yetzira, ha-achronah shel ha-saf?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T19:13:06.824114"
+    },
+    {
+      "english": "This drink, is so refreshing.",
+      "hebrew": "המשקה הזה, כל כך מרענן.",
+      "transliteration": "Ha-mashkeh ha-zeh, kol kach meranen.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T19:13:06.824115"
+    },
+    {
+      "english": "Is this, a local, specialty?",
+      "hebrew": "האם זו, התמחות, מקומית?",
+      "transliteration": "Ha'im zo, hitmag'mut, mekomit?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T19:13:06.824117"
     }
   ],
-  "last_updated": "2026-09-20T17:22:14.318824"
+  "last_updated": "2026-09-20T19:13:06.824118"
 }
