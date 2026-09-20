@@ -16729,7 +16729,42 @@
       "transliteration": "Masach nidlak, drachim chadashot.",
       "category": "Technology",
       "generated_at": "2026-09-20T01:46:13.779043"
+    },
+    {
+      "english": "A new day, dawns now.",
+      "hebrew": "יום חדש, עולה עכשיו.",
+      "transliteration": "Yom chadash, oleh achshav.",
+      "category": "Time",
+      "generated_at": "2026-09-20T15:27:32.100688"
+    },
+    {
+      "english": "The hour, it changes.",
+      "hebrew": "השעה, משתנה.",
+      "transliteration": "Ha'sha'ah, mishtana.",
+      "category": "Time",
+      "generated_at": "2026-09-20T15:27:32.100696"
+    },
+    {
+      "english": "Wait a moment, see.",
+      "hebrew": "חכה רגע, תראה.",
+      "transliteration": "Hacheh rega, tir'eh.",
+      "category": "Time",
+      "generated_at": "2026-09-20T15:27:32.100698"
+    },
+    {
+      "english": "Time flows, like water.",
+      "hebrew": "הזמן זורם, כמו מים.",
+      "transliteration": "Hazman zorem, kmo mayim.",
+      "category": "Time",
+      "generated_at": "2026-09-20T15:27:32.100699"
+    },
+    {
+      "english": "This minute, precious gift.",
+      "hebrew": "הדקה הזו, מתנה יקרה.",
+      "transliteration": "Hadaka hazeh, matana y'kara.",
+      "category": "Time",
+      "generated_at": "2026-09-20T15:27:32.100700"
     }
   ],
-  "last_updated": "2026-09-20T01:46:13.779044"
+  "last_updated": "2026-09-20T15:27:32.100702"
 }
