@@ -16834,7 +16834,42 @@
       "transliteration": "Ha'im zo, hitmag'mut, mekomit?",
       "category": "Restaurant",
       "generated_at": "2026-09-20T19:13:06.824117"
+    },
+    {
+      "english": "Hello there, my friend.",
+      "hebrew": "שלום לך, ידידי.",
+      "transliteration": "Shalom lecha, yedidi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-21T01:46:57.925432"
+    },
+    {
+      "english": "How are you, really?",
+      "hebrew": "מה שלומך, באמת?",
+      "transliteration": "Ma shlomcha, be'emet?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-21T01:46:57.925448"
+    },
+    {
+      "english": "It's a pleasure, meeting you.",
+      "hebrew": "נעים מאוד, להכיר אותך.",
+      "transliteration": "Naim me'od, lehakir otcha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-21T01:46:57.925449"
+    },
+    {
+      "english": "What's new, with you?",
+      "hebrew": "מה חדש, אצלך?",
+      "transliteration": "Ma chadash, etzlech?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-21T01:46:57.925451"
+    },
+    {
+      "english": "Have a good day, ahead.",
+      "hebrew": "יום טוב, לפניך.",
+      "transliteration": "Yom tov, lefaneycha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-21T01:46:57.925452"
     }
   ],
-  "last_updated": "2026-09-20T19:13:06.824118"
+  "last_updated": "2026-09-21T01:46:57.925454"
 }
