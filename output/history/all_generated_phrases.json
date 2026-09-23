@@ -17324,7 +17324,42 @@
       "transliteration": "Muchanim lilmod, yachad?",
       "category": "Greetings",
       "generated_at": "2026-09-23T19:56:03.766905"
+    },
+    {
+      "english": "Unlock your voice, here.",
+      "hebrew": "פתח את קולך, כאן.",
+      "transliteration": "Ptach et kol'cha, kan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:41:24.164383"
+    },
+    {
+      "english": "Hear the new sounds, grow.",
+      "hebrew": "שמע את הצלילים החדשים, צמח.",
+      "transliteration": "Shma et hatzlilim hachadashim, tzmach.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:41:24.164393"
+    },
+    {
+      "english": "Every word, a building block.",
+      "hebrew": "כל מילה, אבן בניין.",
+      "transliteration": "Kol milah, even binyan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:41:24.164395"
+    },
+    {
+      "english": "Your Hebrew journey, begins.",
+      "hebrew": "מסע העברית שלך, מתחיל.",
+      "transliteration": "Masa ha'ivrit shelcha, matchil.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:41:24.164397"
+    },
+    {
+      "english": "Speak it, feel it, bloom.",
+      "hebrew": "דבר את זה, הרגש את זה, פרוח.",
+      "transliteration": "Daber et zeh, regesh et zeh, prach.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T22:41:24.164398"
     }
   ],
-  "last_updated": "2026-09-23T19:56:03.766907"
+  "last_updated": "2026-09-23T22:41:24.164399"
 }
