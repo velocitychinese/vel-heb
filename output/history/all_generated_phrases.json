@@ -17744,7 +17744,42 @@
       "transliteration": "Galei alchut, megii'im rachok.",
       "category": "Technology",
       "generated_at": "2026-09-26T02:05:18.482061"
+    },
+    {
+      "english": "Imagine the sound, here.",
+      "hebrew": "דמיינו את הצליל, כאן.",
+      "transliteration": "Dmey'nu et ha'tzlil, kan.",
+      "category": "Directions",
+      "generated_at": "2026-09-26T15:45:57.745964"
+    },
+    {
+      "english": "Try this, gently.",
+      "hebrew": "נסו את זה, בעדינות.",
+      "transliteration": "Nasu et ze, be'adinut.",
+      "category": "Directions",
+      "generated_at": "2026-09-26T15:45:57.745975"
+    },
+    {
+      "english": "Feel the pulse, now.",
+      "hebrew": "הרגישו את הפעימה, עכשיו.",
+      "transliteration": "Hargishu et ha'pe'ima, achshav.",
+      "category": "Directions",
+      "generated_at": "2026-09-26T15:45:57.745977"
+    },
+    {
+      "english": "Let the meaning sink, in.",
+      "hebrew": "תן למשמעות לחדור, פנימה.",
+      "transliteration": "Ten la'mashma'ut lachdor, p'nima.",
+      "category": "Directions",
+      "generated_at": "2026-09-26T15:45:57.745979"
+    },
+    {
+      "english": "Open your ears, wide.",
+      "hebrew": "פתחו את האוזניים, לרווחה.",
+      "transliteration": "Ptachu et ha'oznayim, le'revacha.",
+      "category": "Directions",
+      "generated_at": "2026-09-26T15:45:57.745983"
     }
   ],
-  "last_updated": "2026-09-26T02:05:18.482063"
+  "last_updated": "2026-09-26T15:45:57.745985"
 }
