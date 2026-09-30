@@ -18339,7 +18339,42 @@
       "transliteration": "Idan nigmar, chadash matchil.",
       "category": "Time",
       "generated_at": "2026-09-29T23:27:11.515152"
+    },
+    {
+      "english": "The moon, a silent watcher.",
+      "hebrew": "הירח, שומר דומם.",
+      "transliteration": "Hayare'ach, shomer domeim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T02:30:48.873925"
+    },
+    {
+      "english": "Stars begin, to twinkle now.",
+      "hebrew": "כוכבים מתחילים, לנצנץ עכשיו.",
+      "transliteration": "Kochavim matchilim, lenatznetz achshav.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T02:30:48.873934"
+    },
+    {
+      "english": "A whispered secret, shared low.",
+      "hebrew": "סוד לוחש, משותף נמוך.",
+      "transliteration": "Sod lochesh, meshutaf namuch.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T02:30:48.873936"
+    },
+    {
+      "english": "The river flows, onward still.",
+      "hebrew": "הנהר זורם, קדימה עדיין.",
+      "transliteration": "Hana'har zorem, kadima adain.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T02:30:48.873937"
+    },
+    {
+      "english": "This coffee, warms my hands.",
+      "hebrew": "הקפה הזאת, מחממת לי את הידיים.",
+      "transliteration": "Hakafeh hazot, mechamemet li et hayadaim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T02:30:48.873939"
     }
   ],
-  "last_updated": "2026-09-29T23:27:11.515154"
+  "last_updated": "2026-09-30T02:30:48.873940"
 }
