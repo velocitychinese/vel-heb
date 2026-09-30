@@ -18444,7 +18444,42 @@
       "transliteration": "Milim shelcha mit'atz'vot, yafeh.",
       "category": "Confidence",
       "generated_at": "2026-09-30T19:00:19.366922"
+    },
+    {
+      "english": "Light steps, a joyful pace.",
+      "hebrew": "צעדים קלים, קצב עליז.",
+      "transliteration": "Tsa'adim kalim, ketzev aliz.",
+      "category": "Health",
+      "generated_at": "2026-09-30T21:07:49.311737"
+    },
+    {
+      "english": "Clear skies, clear thoughts.",
+      "hebrew": "שמיים צלולים, מחשבות צלולות.",
+      "transliteration": "Shamayim tzlulim, mahashavot tzlulot.",
+      "category": "Health",
+      "generated_at": "2026-09-30T21:07:49.311750"
+    },
+    {
+      "english": "Warm hug, inner peace.",
+      "hebrew": "חיבוק חם, שלווה פנימית.",
+      "transliteration": "Hibuk cham, shlawa pnimít.",
+      "category": "Health",
+      "generated_at": "2026-09-30T21:07:49.311752"
+    },
+    {
+      "english": "Gentle stretch, waking up.",
+      "hebrew": "מתיחה עדינה, מתעוררים.",
+      "transliteration": "Metikhá adína, mit'or'rim.",
+      "category": "Health",
+      "generated_at": "2026-09-30T21:07:49.311754"
+    },
+    {
+      "english": "Fresh air, new energy.",
+      "hebrew": "אוויר צח, אנרגיה חדשה.",
+      "transliteration": "Avir tzakh, energia khadasha.",
+      "category": "Health",
+      "generated_at": "2026-09-30T21:07:49.311755"
     }
   ],
-  "last_updated": "2026-09-30T19:00:19.366924"
+  "last_updated": "2026-09-30T21:07:49.311757"
 }
