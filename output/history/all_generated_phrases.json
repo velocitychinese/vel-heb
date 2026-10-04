@@ -19109,7 +19109,42 @@
       "transliteration": "Geshem adin, meranen. ",
       "category": "Common Expressions",
       "generated_at": "2026-10-04T16:26:12.741801"
+    },
+    {
+      "english": "New app, fresh start.",
+      "hebrew": "אפליקציה חדשה, התחלה רעננה.",
+      "transliteration": "Aplikatzya chadasha, hat'chala ra'anana.",
+      "category": "Technology",
+      "generated_at": "2026-10-04T18:04:01.217020"
+    },
+    {
+      "english": "Click here, then wonder.",
+      "hebrew": "לחץ כאן, ואז תתפלא.",
+      "transliteration": "Lach'tz kan, v'az tit'pale.",
+      "category": "Technology",
+      "generated_at": "2026-10-04T18:04:01.217029"
+    },
+    {
+      "english": "Your data, secure.",
+      "hebrew": "הנתונים שלך, מאובטחים.",
+      "transliteration": "Ha'netunim shelcha, me'uv'tachim.",
+      "category": "Technology",
+      "generated_at": "2026-10-04T18:04:01.217031"
+    },
+    {
+      "english": "Update now, stay sharp.",
+      "hebrew": "עדכן עכשיו, הישאר חד.",
+      "transliteration": "Ad'ken achshav, hisha'er chad.",
+      "category": "Technology",
+      "generated_at": "2026-10-04T18:04:01.217032"
+    },
+    {
+      "english": "The network, hums.",
+      "hebrew": "הרשת, מזמזמת.",
+      "transliteration": "Ha'reshet, mezamze'met.",
+      "category": "Technology",
+      "generated_at": "2026-10-04T18:04:01.217033"
     }
   ],
-  "last_updated": "2026-10-04T16:26:12.741803"
+  "last_updated": "2026-10-04T18:04:01.217035"
 }
