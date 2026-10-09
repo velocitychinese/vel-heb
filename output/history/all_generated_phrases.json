@@ -19704,7 +19704,42 @@
       "transliteration": "Kol tza'ad, boker chadash.",
       "category": "Strength",
       "generated_at": "2026-10-08T19:45:52.182107"
+    },
+    {
+      "english": "Shine bright, traveler.",
+      "hebrew": "זרוח, מסע.",
+      "transliteration": "Zro'ach, masa.",
+      "category": "Greetings",
+      "generated_at": "2026-10-09T00:09:54.249719"
+    },
+    {
+      "english": "May peace, be with you.",
+      "hebrew": "שתהיה שלום, עמך.",
+      "transliteration": "Sheyihiyeh shalom, imach.",
+      "category": "Greetings",
+      "generated_at": "2026-10-09T00:09:54.249729"
+    },
+    {
+      "english": "A good breath, now.",
+      "hebrew": "נשימה טובה, עכשיו.",
+      "transliteration": "Neshima tova, achshav.",
+      "category": "Greetings",
+      "generated_at": "2026-10-09T00:09:54.249730"
+    },
+    {
+      "english": "Curiosity, guides you.",
+      "hebrew": "סקרנות, מנחה אותך.",
+      "transliteration": "Sakranut, mancha otach.",
+      "category": "Greetings",
+      "generated_at": "2026-10-09T00:09:54.249731"
+    },
+    {
+      "english": "Open heart, open mind.",
+      "hebrew": "לב פתוח, ראש פתוח.",
+      "transliteration": "Lev patu'ach, rosh patu'ach.",
+      "category": "Greetings",
+      "generated_at": "2026-10-09T00:09:54.249732"
     }
   ],
-  "last_updated": "2026-10-08T19:45:52.182109"
+  "last_updated": "2026-10-09T00:09:54.249733"
 }
