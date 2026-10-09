@@ -19844,7 +19844,42 @@
       "transliteration": "Ten lasafa, lizrom bekalt.",
       "category": "Success",
       "generated_at": "2026-10-09T19:22:57.505187"
+    },
+    {
+      "english": "This dish, is a true work, of art.",
+      "hebrew": "המנה הזו, היא יצירת אומנות, אמיתית.",
+      "transliteration": "Ha-mana ha-zu, hi yetzirat omanut, amiti-t.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T21:25:14.741468"
+    },
+    {
+      "english": "I'm really, looking forward, to this.",
+      "hebrew": "אני באמת, מצפה, לזה.",
+      "transliteration": "Ani be-emet, metzapeh, le-zeh.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T21:25:14.741481"
+    },
+    {
+      "english": "What's, a unique, local flavor?",
+      "hebrew": "איזה טעם, מקומי, מיוחד?",
+      "transliteration": "Eizeh ta'am, mekomi, meyuchad?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T21:25:14.741483"
+    },
+    {
+      "english": "Could, I get, a recommendation, for tonight?",
+      "hebrew": "אפשר, לקבל, המלצה, להערב?",
+      "transliteration": "Efshar, le-kabel, hamlatzah, la-erev?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T21:25:14.741485"
+    },
+    {
+      "english": "This presentation, is quite, elegant.",
+      "hebrew": "ההגשה הזו, די, אלגנטית.",
+      "transliteration": "Ha-hagashah ha-zu, dai, elegantit.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T21:25:14.741486"
     }
   ],
-  "last_updated": "2026-10-09T19:22:57.505189"
+  "last_updated": "2026-10-09T21:25:14.741488"
 }
