@@ -19809,7 +19809,42 @@
       "transliteration": "Chmla le'atzmech, hayom.",
       "category": "Health",
       "generated_at": "2026-10-09T17:58:12.096211"
+    },
+    {
+      "english": "Hear the rhythm, feel the heart.",
+      "hebrew": "שמע את הקצב, הרגש את הלב.",
+      "transliteration": "Shma et haketzev, regesh et halev.",
+      "category": "Success",
+      "generated_at": "2026-10-09T19:22:57.505171"
+    },
+    {
+      "english": "New worlds, through Hebrew.",
+      "hebrew": "עולמות חדשים, דרך עברית.",
+      "transliteration": "Olamot chadashim, derech Ivrit.",
+      "category": "Success",
+      "generated_at": "2026-10-09T19:22:57.505182"
+    },
+    {
+      "english": "Your thoughts, taking shape.",
+      "hebrew": "המחשבות שלך, מקבלות צורה.",
+      "transliteration": "Hachashavot shelcha, mekablot tzura.",
+      "category": "Success",
+      "generated_at": "2026-10-09T19:22:57.505184"
+    },
+    {
+      "english": "Every sound, a discovery.",
+      "hebrew": "כל צליל, גילוי.",
+      "transliteration": "Kol tzlil, giluy.",
+      "category": "Success",
+      "generated_at": "2026-10-09T19:22:57.505186"
+    },
+    {
+      "english": "Let the language, flow easily.",
+      "hebrew": "תן לשפה, לזרום בקלות.",
+      "transliteration": "Ten lasafa, lizrom bekalt.",
+      "category": "Success",
+      "generated_at": "2026-10-09T19:22:57.505187"
     }
   ],
-  "last_updated": "2026-10-09T17:58:12.096213"
+  "last_updated": "2026-10-09T19:22:57.505189"
 }
