@@ -19739,7 +19739,42 @@
       "transliteration": "Lev patu'ach, rosh patu'ach.",
       "category": "Greetings",
       "generated_at": "2026-10-09T00:09:54.249732"
+    },
+    {
+      "english": "Listen. Connect. Understand.",
+      "hebrew": "קשב. התחבר. הבן.",
+      "transliteration": "Keshev. Hit'chaber. Havan.",
+      "category": "Education",
+      "generated_at": "2026-10-09T03:11:39.721869"
+    },
+    {
+      "english": "New sounds. New world.",
+      "hebrew": "צלילים חדשים. עולם חדש.",
+      "transliteration": "Tzlilim chadashim. Olam chadash.",
+      "category": "Education",
+      "generated_at": "2026-10-09T03:11:39.721879"
+    },
+    {
+      "english": "Speak a little. Learn a lot.",
+      "hebrew": "דבר מעט. למד הרבה.",
+      "transliteration": "Daber me'at. Lamad harbeh.",
+      "category": "Education",
+      "generated_at": "2026-10-09T03:11:39.721881"
+    },
+    {
+      "english": "The alphabet, a journey.",
+      "hebrew": "האלפבית, מסע.",
+      "transliteration": "Ha'alefbet, masa.",
+      "category": "Education",
+      "generated_at": "2026-10-09T03:11:39.721882"
+    },
+    {
+      "english": "Small words, big ideas.",
+      "hebrew": "מילים קטנות, רעיונות גדולים.",
+      "transliteration": "Milim ktanot, ra'ayonot gdolim.",
+      "category": "Education",
+      "generated_at": "2026-10-09T03:11:39.721884"
     }
   ],
-  "last_updated": "2026-10-09T00:09:54.249733"
+  "last_updated": "2026-10-09T03:11:39.721885"
 }
