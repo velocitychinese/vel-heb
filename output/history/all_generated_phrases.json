@@ -20299,7 +20299,42 @@
       "transliteration": "Ha'ratzon shelcha, chazak.",
       "category": "Courage",
       "generated_at": "2026-10-12T02:44:13.991456"
+    },
+    {
+      "english": "This city, sings a new song.",
+      "hebrew": "העיר הזו, שרה שיר חדש.",
+      "transliteration": "Ha'ir hazot, shara shir chadash.",
+      "category": "Travel",
+      "generated_at": "2026-10-12T20:54:11.243828"
+    },
+    {
+      "english": "Let’s follow, the winding river.",
+      "hebrew": "בואו נלך, בעקבות הנהר המתפתל.",
+      "transliteration": "Bo'u nelekh, be'ikvot hanahar hamitpateil.",
+      "category": "Travel",
+      "generated_at": "2026-10-12T20:54:11.243836"
+    },
+    {
+      "english": "A secret garden, waits for us.",
+      "hebrew": "גן סודי, מחכה לנו.",
+      "transliteration": "Gan sodei, mechakeh lanu.",
+      "category": "Travel",
+      "generated_at": "2026-10-12T20:54:11.243837"
+    },
+    {
+      "english": "Morning light, on quiet streets.",
+      "hebrew": "אור בוקר, ברחובות שקטים.",
+      "transliteration": "Or boker, ber'khovot shketim.",
+      "category": "Travel",
+      "generated_at": "2026-10-12T20:54:11.243838"
+    },
+    {
+      "english": "The plaza hums, with conversation.",
+      "hebrew": "הכיכר מזמזמת, בשיחות.",
+      "transliteration": "Hakikar me'zamzemet, besichot.",
+      "category": "Travel",
+      "generated_at": "2026-10-12T20:54:11.243838"
     }
   ],
-  "last_updated": "2026-10-12T02:44:13.991457"
+  "last_updated": "2026-10-12T20:54:11.243840"
 }
