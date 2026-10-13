@@ -20439,7 +20439,42 @@
       "transliteration": "Ha'avir kaved, im geshem mitkarev.",
       "category": "Weather",
       "generated_at": "2026-10-13T01:49:37.587826"
+    },
+    {
+      "english": "Speak it, live it, Hebrew.",
+      "hebrew": "דבר את זה, חיה את זה, עברית.",
+      "transliteration": "Daber et zeh, chayi et zeh, Ivrit.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T04:00:32.536256"
+    },
+    {
+      "english": "Your sounds, bloom now.",
+      "hebrew": "הצלילים שלך, פורחים עכשיו.",
+      "transliteration": "Ha'tzlilim shelcha, porchim achshav.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T04:00:32.536266"
+    },
+    {
+      "english": "Embrace the language, feel it.",
+      "hebrew": "חבק את השפה, הרגש אותה.",
+      "transliteration": "Chabak et ha'safah, regesh otah.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T04:00:32.536268"
+    },
+    {
+      "english": "Brave words, find your voice.",
+      "hebrew": "מילים אמיצות, מצא את קולך.",
+      "transliteration": "Milim amitzot, metza et kolcha.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T04:00:32.536269"
+    },
+    {
+      "english": "You understand, you speak.",
+      "hebrew": "אתה מבין, אתה מדבר.",
+      "transliteration": "Atah mevin, atah medaber.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T04:00:32.536270"
     }
   ],
-  "last_updated": "2026-10-13T01:49:37.587828"
+  "last_updated": "2026-10-13T04:00:32.536272"
 }
