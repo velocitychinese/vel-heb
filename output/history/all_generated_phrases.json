@@ -20404,7 +20404,42 @@
       "transliteration": "Tzlil yachid, yachol lihyot amok.",
       "category": "Mindfulness",
       "generated_at": "2026-10-12T23:24:37.068355"
+    },
+    {
+      "english": "Sunshine, like honey, warms the day.",
+      "hebrew": "שמש, כמו דבש, מחממת את היום.",
+      "transliteration": "Shemesh, kmo dvash, mechamemet et hayom.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:49:37.587812"
+    },
+    {
+      "english": "Raindrops dance, on dusty streets.",
+      "hebrew": "טיפות גשם רוקדות, על רחובות אבק.",
+      "transliteration": "Tipot geshem rokdót, al rechovot avak.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:49:37.587822"
+    },
+    {
+      "english": "A cool breeze, plays in the leaves.",
+      "hebrew": "בריזה קרירה, משחקת בעלים.",
+      "transliteration": "Breza krira, mesacheket ba'alim.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:49:37.587824"
+    },
+    {
+      "english": "Dark clouds loom, a brewing storm.",
+      "hebrew": "עננים שחורים מרחפים, סערה מתבשלת.",
+      "transliteration": "Ananim shchorim merachefim, se'ara mitbashelet.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:49:37.587825"
+    },
+    {
+      "english": "The air is heavy, with coming rain.",
+      "hebrew": "האוויר כבד, עם גשם מתקרב.",
+      "transliteration": "Ha'avir kaved, im geshem mitkarev.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:49:37.587826"
     }
   ],
-  "last_updated": "2026-10-12T23:24:37.068356"
+  "last_updated": "2026-10-13T01:49:37.587828"
 }
