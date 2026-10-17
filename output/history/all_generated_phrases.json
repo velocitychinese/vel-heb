@@ -21209,7 +21209,42 @@
       "transliteration": "Ha-dikduk mistader, sof sof.",
       "category": "Success",
       "generated_at": "2026-10-17T14:57:29.329153"
+    },
+    {
+      "english": "One river, flows to sea.",
+      "hebrew": "נהר אחד, זורם לים.",
+      "transliteration": "nahar echad, zore'a la'yam.",
+      "category": "Numbers",
+      "generated_at": "2026-10-17T16:55:44.991339"
+    },
+    {
+      "english": "Two shadows, dance in light.",
+      "hebrew": "שתי צלליות, רוקדות באור.",
+      "transliteration": "shtei tzlalilot, rokd'ot ba'or.",
+      "category": "Numbers",
+      "generated_at": "2026-10-17T16:55:44.991349"
+    },
+    {
+      "english": "Three friends, share a smile.",
+      "hebrew": "שלושה חברים, חולקים חיוך.",
+      "transliteration": "shlosha chaverim, chol'kim chiyuch.",
+      "category": "Numbers",
+      "generated_at": "2026-10-17T16:55:44.991351"
+    },
+    {
+      "english": "Four seasons, turn the year.",
+      "hebrew": "ארבע עונות, סובבות את השנה.",
+      "transliteration": "arba onot, sovo'ot et ha'shana.",
+      "category": "Numbers",
+      "generated_at": "2026-10-17T16:55:44.991352"
+    },
+    {
+      "english": "Five fingers, grip the sand.",
+      "hebrew": "חמש אצבעות, אוחזות בחול.",
+      "transliteration": "chamesh etzba'ot, ochezot ba'chol.",
+      "category": "Numbers",
+      "generated_at": "2026-10-17T16:55:44.991354"
     }
   ],
-  "last_updated": "2026-10-17T14:57:29.329154"
+  "last_updated": "2026-10-17T16:55:44.991356"
 }
