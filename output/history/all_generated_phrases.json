@@ -21244,7 +21244,42 @@
       "transliteration": "chamesh etzba'ot, ochezot ba'chol.",
       "category": "Numbers",
       "generated_at": "2026-10-17T16:55:44.991354"
+    },
+    {
+      "english": "The deep sea, mysterious navy.",
+      "hebrew": "הים העמוק, נייבי מסתורי.",
+      "transliteration": "Hayam ha'amok, navy mistori.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T18:58:18.082270"
+    },
+    {
+      "english": "A lemon's zest, bright yellow.",
+      "hebrew": "קליפת לימון, צהוב בוהק.",
+      "transliteration": "Klipat limon, tzahov bohek.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T18:58:18.082277"
+    },
+    {
+      "english": "Newspapers, classic black ink.",
+      "hebrew": "עיתונים, דיו שחור קלאסי.",
+      "transliteration": "I'tonim, div shachor klasi.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T18:58:18.082279"
+    },
+    {
+      "english": "A blush of rose, soft pink.",
+      "hebrew": "סומק ורד, ורוד עדין.",
+      "transliteration": "Somek vared, varod adin.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T18:58:18.082280"
+    },
+    {
+      "english": "Fresh mint leaves, vibrant green.",
+      "hebrew": "עלי נענע טריים, ירוק חי.",
+      "transliteration": "Alei na'ana tri'im, yarok chai.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T18:58:18.082281"
     }
   ],
-  "last_updated": "2026-10-17T16:55:44.991356"
+  "last_updated": "2026-10-17T18:58:18.082283"
 }
