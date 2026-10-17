@@ -21279,7 +21279,42 @@
       "transliteration": "Alei na'ana tri'im, yarok chai.",
       "category": "Colors",
       "generated_at": "2026-10-17T18:58:18.082281"
+    },
+    {
+      "english": "A new path, opens now.",
+      "hebrew": "דרך חדשה, נפתחת עכשיו.",
+      "transliteration": "derech chadasha, niftechétz av.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T21:58:58.691704"
+    },
+    {
+      "english": "May insight, find you.",
+      "hebrew": "שתובנה, תמצא אותך.",
+      "transliteration": "she'tuvana, timtza otcha.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T21:58:58.691715"
+    },
+    {
+      "english": "A thoughtful hello, to you.",
+      "hebrew": "ברכה מהורהרת, אליך.",
+      "transliteration": "bracha mehóreret, elecha.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T21:58:58.691717"
+    },
+    {
+      "english": "May understanding, blossom.",
+      "hebrew": "שתבין, תפרח.",
+      "transliteration": "she'tevin, tifrach.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T21:58:58.691718"
+    },
+    {
+      "english": "Welcome, seeker of knowledge.",
+      "hebrew": "ברוך הבא, מחפש דעת.",
+      "transliteration": "baruch haba, mechapes da'at.",
+      "category": "Greetings",
+      "generated_at": "2026-10-17T21:58:58.691720"
     }
   ],
-  "last_updated": "2026-10-17T18:58:18.082283"
+  "last_updated": "2026-10-17T21:58:58.691721"
 }
