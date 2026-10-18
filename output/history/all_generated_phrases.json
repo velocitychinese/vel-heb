@@ -21314,7 +21314,42 @@
       "transliteration": "baruch haba, mechapes da'at.",
       "category": "Greetings",
       "generated_at": "2026-10-17T21:58:58.691720"
+    },
+    {
+      "english": "Alert! A sudden danger, approaching.",
+      "hebrew": "התראה! סכנה פתאומית, מתקרבת.",
+      "transliteration": "Hatra'ah! Sakana pit'omit, mitkarevet.",
+      "category": "Emergency",
+      "generated_at": "2026-10-18T01:36:32.187346"
+    },
+    {
+      "english": "Immediate attention, required now.",
+      "hebrew": "תשומת לב מיידית, דרושה עכשיו.",
+      "transliteration": "Tsumet lev miyadit, drusha achshav.",
+      "category": "Emergency",
+      "generated_at": "2026-10-18T01:36:32.187356"
+    },
+    {
+      "english": "There’s a strange smell, in the air.",
+      "hebrew": "יש ריח מוזר, באוויר.",
+      "transliteration": "Yesh rei'ach muzar, ba'avir.",
+      "category": "Emergency",
+      "generated_at": "2026-10-18T01:36:32.187357"
+    },
+    {
+      "english": "We must evacuate, this zone.",
+      "hebrew": "עלינו להתפנות, מהאזור הזה.",
+      "transliteration": "Aley'nu lehitpanot, me'ha'ezor hazeh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-18T01:36:32.187358"
+    },
+    {
+      "english": "My breathing, feels very shallow.",
+      "hebrew": "הנשימה שלי, מרגישה שטוחה מאוד.",
+      "transliteration": "Ha'neshima sheli, margisha shtucha me'od.",
+      "category": "Emergency",
+      "generated_at": "2026-10-18T01:36:32.187358"
     }
   ],
-  "last_updated": "2026-10-17T21:58:58.691721"
+  "last_updated": "2026-10-18T01:36:32.187359"
 }
