@@ -21839,7 +21839,42 @@
       "transliteration": "HAKATEF SHELI, MAKOM MENUCHA, BISHVILCHA.",
       "category": "Body Parts",
       "generated_at": "2026-10-20T22:56:21.555392"
+    },
+    {
+      "english": "The ball, finds the net.",
+      "hebrew": "הכדור, מוצא את הרשת.",
+      "transliteration": "Ha-kadur, motze et ha-reshet.",
+      "category": "Sports",
+      "generated_at": "2026-10-21T02:06:26.361874"
+    },
+    {
+      "english": "Focus now, on the goal.",
+      "hebrew": "התמקדו עכשיו, על המטרה.",
+      "transliteration": "Hitmakdu achshav, al ha-matarah.",
+      "category": "Sports",
+      "generated_at": "2026-10-21T02:06:26.361884"
+    },
+    {
+      "english": "Strength, and grace combined.",
+      "hebrew": "כוח, וחן משולבים.",
+      "transliteration": "Koach, ve-chen meshulavim.",
+      "category": "Sports",
+      "generated_at": "2026-10-21T02:06:26.361886"
+    },
+    {
+      "english": "Play fair, play hard.",
+      "hebrew": "שחקו הוגן, שחקו קשה.",
+      "transliteration": "Sacheku hogen, sacheku kasheh.",
+      "category": "Sports",
+      "generated_at": "2026-10-21T02:06:26.361887"
+    },
+    {
+      "english": "The roar, of the crowd.",
+      "hebrew": "שאגת, הקהל.",
+      "transliteration": "Shi'agat, ha-kahal.",
+      "category": "Sports",
+      "generated_at": "2026-10-21T02:06:26.361888"
     }
   ],
-  "last_updated": "2026-10-20T22:56:21.555394"
+  "last_updated": "2026-10-21T02:06:26.361890"
 }
