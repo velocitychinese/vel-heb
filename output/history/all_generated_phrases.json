@@ -22224,7 +22224,42 @@
       "transliteration": "Hiyu smuchim, ha'tshuva tagi'a.",
       "category": "Patience",
       "generated_at": "2026-10-23T20:43:48.937892"
+    },
+    {
+      "english": "A fresh start, right now.",
+      "hebrew": "התחלה חדשה, ממש עכשיו.",
+      "transliteration": "Hatchala chadasha, mamash achshav.",
+      "category": "Greetings",
+      "generated_at": "2026-10-23T22:54:27.559342"
+    },
+    {
+      "english": "Let's speak, Hebrew.",
+      "hebrew": "בוא נדבר, עברית.",
+      "transliteration": "Bo nedaber, Ivrit.",
+      "category": "Greetings",
+      "generated_at": "2026-10-23T22:54:27.559350"
+    },
+    {
+      "english": "Your journey, begins here.",
+      "hebrew": "המסע שלך, מתחיל כאן.",
+      "transliteration": "Ha'masa shelcha, matchil kan.",
+      "category": "Greetings",
+      "generated_at": "2026-10-23T22:54:27.559352"
+    },
+    {
+      "english": "A new word, a new world.",
+      "hebrew": "מילה חדשה, עולם חדש.",
+      "transliteration": "Mila chadasha, olam chadash.",
+      "category": "Greetings",
+      "generated_at": "2026-10-23T22:54:27.559353"
+    },
+    {
+      "english": "Listen closely, learn.",
+      "hebrew": "הקשב היטב, למד.",
+      "transliteration": "Hakashev heitev, leméd.",
+      "category": "Greetings",
+      "generated_at": "2026-10-23T22:54:27.559354"
     }
   ],
-  "last_updated": "2026-10-23T20:43:48.937894"
+  "last_updated": "2026-10-23T22:54:27.559356"
 }
