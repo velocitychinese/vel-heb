@@ -22679,7 +22679,42 @@
       "transliteration": "Ha-shokolad ha-ze, ashir me'od.",
       "category": "Food",
       "generated_at": "2026-10-26T18:14:00.020432"
+    },
+    {
+      "english": "The quiet, speaks volumes.",
+      "hebrew": "השקט, מדבר רבות.",
+      "transliteration": "Ha-sheket, medaber rabot.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-26T19:49:18.711287"
+    },
+    {
+      "english": "This path, leads somewhere.",
+      "hebrew": "השביל הזה, מוביל לאנשהו.",
+      "transliteration": "Ha-shvil hazeh, movil le-an-shehu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-26T19:49:18.711301"
+    },
+    {
+      "english": "Let's absorb, this moment.",
+      "hebrew": "בואו נספוג, את הרגע הזה.",
+      "transliteration": "Bo'u nisfog, et ha-rega hazeh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-26T19:49:18.711302"
+    },
+    {
+      "english": "The wind, carries whispers.",
+      "hebrew": "הרוח, נושאת לחשים.",
+      "transliteration": "Ha-ruach, noset lachashim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-26T19:49:18.711303"
+    },
+    {
+      "english": "Just breathe, and be.",
+      "hebrew": "פשוט לנשום, ולהיות.",
+      "transliteration": "Pashut linshom, v'lihiyot.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-26T19:49:18.711304"
     }
   ],
-  "last_updated": "2026-10-26T18:14:00.020434"
+  "last_updated": "2026-10-26T19:49:18.711306"
 }
