@@ -22749,7 +22749,42 @@
       "transliteration": "Ha-khultza shelo, tzricha gihutz, be'emet.",
       "category": "Clothes",
       "generated_at": "2026-10-26T22:34:51.817637"
+    },
+    {
+      "english": "Her eyes, wide with wonder.",
+      "hebrew": "עיניה, פקוחות בתמיהה.",
+      "transliteration": "Einayha, pkuhot b'tmiah.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-26T23:35:09.033624"
+    },
+    {
+      "english": "His ears, picking up every sound.",
+      "hebrew": "אוזניו, קולטות כל צליל.",
+      "transliteration": "Oznayv, koltot kol tzlil.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-26T23:35:09.033634"
+    },
+    {
+      "english": "His mouth, whispering a secret.",
+      "hebrew": "פיו, לוחש סוד.",
+      "transliteration": "Peeyo, lochesh sod.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-26T23:35:09.033635"
+    },
+    {
+      "english": "Her teeth, a perfect row, smiling.",
+      "hebrew": "שיניה, שורה מושלמת, מחייכת.",
+      "transliteration": "Shinayha, shura mushlemet, mechayechet.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-26T23:35:09.033636"
+    },
+    {
+      "english": "His chin, resting on his hand.",
+      "hebrew": "סנטרו, נח על ידו.",
+      "transliteration": "Sintoro, no'ach al yado.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-26T23:35:09.033636"
     }
   ],
-  "last_updated": "2026-10-26T22:34:51.817639"
+  "last_updated": "2026-10-26T23:35:09.033637"
 }
