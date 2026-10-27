@@ -22889,7 +22889,42 @@
       "transliteration": "Or boker, derech ha'zchuchit.",
       "category": "Daily Routine",
       "generated_at": "2026-10-27T19:22:31.871755"
+    },
+    {
+      "english": "The wind, it howls tonight.",
+      "hebrew": "הרוח, היא מייללת הלילה.",
+      "transliteration": "Ha-ruach, hee meyalellet ha-layla.",
+      "category": "Weather",
+      "generated_at": "2026-10-27T21:04:20.521651"
+    },
+    {
+      "english": "Sunshine, a golden smile.",
+      "hebrew": "שמש, חיוך זהוב.",
+      "transliteration": "Shemesh, chiyuch zahuv.",
+      "category": "Weather",
+      "generated_at": "2026-10-27T21:04:20.521661"
+    },
+    {
+      "english": "Raindrops, tap-tap-tapping.",
+      "hebrew": "טיפות גשם, מתופפות.",
+      "transliteration": "Tifot geshem, metofefot.",
+      "category": "Weather",
+      "generated_at": "2026-10-27T21:04:20.521663"
+    },
+    {
+      "english": "Fog rolls in, secrets hidden.",
+      "hebrew": "ערפל נכנס, סודות נסתרים.",
+      "transliteration": "Arafel nichnas, sodot nistarim.",
+      "category": "Weather",
+      "generated_at": "2026-10-27T21:04:20.521665"
+    },
+    {
+      "english": "A gentle mist, cools the skin.",
+      "hebrew": "רסס עדין, מקרר את העור.",
+      "transliteration": "Rasess adin, mekarer et ha-or.",
+      "category": "Weather",
+      "generated_at": "2026-10-27T21:04:20.521666"
     }
   ],
-  "last_updated": "2026-10-27T19:22:31.871756"
+  "last_updated": "2026-10-27T21:04:20.521668"
 }
