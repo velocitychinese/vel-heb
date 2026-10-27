@@ -22924,7 +22924,42 @@
       "transliteration": "Rasess adin, mekarer et ha-or.",
       "category": "Weather",
       "generated_at": "2026-10-27T21:04:20.521666"
+    },
+    {
+      "english": "Fire! We must leave, now.",
+      "hebrew": "שריפה! חייבים לצאת, מיד.",
+      "transliteration": "Sreifah! Khayavim latzet, miyad.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:29:55.337824"
+    },
+    {
+      "english": "Danger nearby, be careful.",
+      "hebrew": "סכנה בקרבת מקום, היזהרו.",
+      "transliteration": "Sakana bikrivat makom, hizaharu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:29:55.337837"
+    },
+    {
+      "english": "I lost my way, help.",
+      "hebrew": "איבדתי את הדרך, עזרה.",
+      "transliteration": "Ibadti et haderekh, ezrah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:29:55.337838"
+    },
+    {
+      "english": "Something's blocking, the exit.",
+      "hebrew": "משהו חוסם, את היציאה.",
+      "transliteration": "Mashehu khosem, et hayetziah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:29:55.337840"
+    },
+    {
+      "english": "Medical help, needed urgently.",
+      "hebrew": "סיוע רפואי, נדרש בדחיפות.",
+      "transliteration": "Siyu'a refu'i, nidrash bedkhifut.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:29:55.337841"
     }
   ],
-  "last_updated": "2026-10-27T21:04:20.521668"
+  "last_updated": "2026-10-27T23:29:55.337843"
 }
