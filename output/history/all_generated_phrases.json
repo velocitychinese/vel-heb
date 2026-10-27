@@ -22784,7 +22784,42 @@
       "transliteration": "Sintoro, no'ach al yado.",
       "category": "Body Parts",
       "generated_at": "2026-10-26T23:35:09.033636"
+    },
+    {
+      "english": "A clear sky, bright blue.",
+      "hebrew": "שמיים צלולים, תכולים.",
+      "transliteration": "shamayim tzlulim, t'cholim.",
+      "category": "Colors",
+      "generated_at": "2026-10-27T02:30:35.425308"
+    },
+    {
+      "english": "Fresh snow, pure white.",
+      "hebrew": "שלג טרי, לבן צחור.",
+      "transliteration": "sheleg tari, lavan tzahor.",
+      "category": "Colors",
+      "generated_at": "2026-10-27T02:30:35.425317"
+    },
+    {
+      "english": "A sunset's fire, deep red.",
+      "hebrew": "אש השקיעה, אדום עמוק.",
+      "transliteration": "esh hasHki'a, adom amok.",
+      "category": "Colors",
+      "generated_at": "2026-10-27T02:30:35.425318"
+    },
+    {
+      "english": "The ocean depths, dark blue.",
+      "hebrew": "מעמקי הים, כחול כהה.",
+      "transliteration": "ma'amakei hayam, kachol kehe.",
+      "category": "Colors",
+      "generated_at": "2026-10-27T02:30:35.425319"
+    },
+    {
+      "english": "A kingfisher's flash, electric blue.",
+      "hebrew": "הברקת דגו, תכלת חשמלית.",
+      "transliteration": "habarkat dagu, t'chelet chashmalit.",
+      "category": "Colors",
+      "generated_at": "2026-10-27T02:30:35.425320"
     }
   ],
-  "last_updated": "2026-10-26T23:35:09.033637"
+  "last_updated": "2026-10-27T02:30:35.425321"
 }
