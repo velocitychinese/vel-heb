@@ -23449,7 +23449,42 @@
       "transliteration": "margish… negi'ah, mutzaf.",
       "category": "Feelings",
       "generated_at": "2026-10-30T21:16:25.233704"
+    },
+    {
+      "english": "The memory lingers, softly.",
+      "hebrew": "הזיכרון נשאר, בעדינות.",
+      "transliteration": "hazikaron nish'ar, be'adinut.",
+      "category": "Time",
+      "generated_at": "2026-10-30T23:28:26.067753"
+    },
+    {
+      "english": "A fleeting second, gone.",
+      "hebrew": "שנייה חולפת, אבודה.",
+      "transliteration": "shniya cholefet, avuda.",
+      "category": "Time",
+      "generated_at": "2026-10-30T23:28:26.067764"
+    },
+    {
+      "english": "The moment arrives, unexpectedly.",
+      "hebrew": "הרגע מגיע, במפתיע.",
+      "transliteration": "ha'rega magi'a, bemifti'a.",
+      "category": "Time",
+      "generated_at": "2026-10-30T23:28:26.067765"
+    },
+    {
+      "english": "Future possibilities, unfold.",
+      "hebrew": "אפשרויות עתידיות, נפרשות.",
+      "transliteration": "efsharuyot atidiyot, nifrasot.",
+      "category": "Time",
+      "generated_at": "2026-10-30T23:28:26.067766"
+    },
+    {
+      "english": "Yesterday's echo, fades.",
+      "hebrew": "הד של אתמול, דועך.",
+      "transliteration": "hed shel etmol, do'e'ach.",
+      "category": "Time",
+      "generated_at": "2026-10-30T23:28:26.067768"
     }
   ],
-  "last_updated": "2026-10-30T21:16:25.233706"
+  "last_updated": "2026-10-30T23:28:26.067770"
 }
