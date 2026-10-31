@@ -23554,7 +23554,42 @@
       "transliteration": "shalav hamachkar, mevin yoter.",
       "category": "Work",
       "generated_at": "2026-10-31T18:23:45.015942"
+    },
+    {
+      "english": "Listen close, hear the echo.",
+      "hebrew": "הקשב היטב, שמע את ההד.",
+      "transliteration": "Hak'shev heitev, shma et ha'hed.",
+      "category": "Purpose",
+      "generated_at": "2026-10-31T20:22:56.543875"
+    },
+    {
+      "english": "New words, new thoughts, bloom.",
+      "hebrew": "מילים חדשות, מחשבות חדשות, פורחות.",
+      "transliteration": "Milim chadashot, machshavot chadashot, por'chot.",
+      "category": "Purpose",
+      "generated_at": "2026-10-31T20:22:56.543885"
+    },
+    {
+      "english": "Let meaning, unfold gently.",
+      "hebrew": "תן למשמעות, להיפתח בעדינות.",
+      "transliteration": "Ten la'mashma'ut, lehit'pate'ach be'adinut.",
+      "category": "Purpose",
+      "generated_at": "2026-10-31T20:22:56.543887"
+    },
+    {
+      "english": "Your accent, finds its music.",
+      "hebrew": "המבטא שלך, מוצא את המוזיקה שלו.",
+      "transliteration": "Ha'mivta shelcha, motze et ha'muzika shelo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-31T20:22:56.543888"
+    },
+    {
+      "english": "Speak a truth, in Hebrew.",
+      "hebrew": "דבר אמת, בעברית.",
+      "transliteration": "Daber emet, be'ivrit.",
+      "category": "Purpose",
+      "generated_at": "2026-10-31T20:22:56.543888"
     }
   ],
-  "last_updated": "2026-10-31T18:23:45.015956"
+  "last_updated": "2026-10-31T20:22:56.543890"
 }
