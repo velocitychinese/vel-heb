@@ -23659,7 +23659,42 @@
       "transliteration": "Miklat batuach, baninu.",
       "category": "Relationships",
       "generated_at": "2026-11-01T02:41:58.373288"
+    },
+    {
+      "english": "A stormy sea, slate gray.",
+      "hebrew": "ים סוער, אפור צפחה.",
+      "transliteration": "yam so'er, afor tzf'cha.",
+      "category": "Colors",
+      "generated_at": "2026-11-01T17:38:41.776590"
+    },
+    {
+      "english": "His eyes, a gentle hazel.",
+      "hebrew": "עיניו, לוז עדין.",
+      "transliteration": "einav, luz aden.",
+      "category": "Colors",
+      "generated_at": "2026-11-01T17:38:41.776602"
+    },
+    {
+      "english": "The old parchment, a soft cream.",
+      "hebrew": "הקלף הישן, קרם רך.",
+      "transliteration": "haklaf hayashan, krem rach.",
+      "category": "Colors",
+      "generated_at": "2026-11-01T17:38:41.776604"
+    },
+    {
+      "english": "A monarch's robe, rich burgundy.",
+      "hebrew": "גלימת מלך, בורדו עשיר.",
+      "transliteration": "glimat melech, bordeaux ashir.",
+      "category": "Colors",
+      "generated_at": "2026-11-01T17:38:41.776605"
+    },
+    {
+      "english": "Evening shadows, deep violet.",
+      "hebrew": "צללי ערב, סגול עמוק.",
+      "transliteration": "tzlalei erev, sagol amok.",
+      "category": "Colors",
+      "generated_at": "2026-11-01T17:38:41.776607"
     }
   ],
-  "last_updated": "2026-11-01T02:41:58.373289"
+  "last_updated": "2026-11-01T17:38:41.776608"
 }
