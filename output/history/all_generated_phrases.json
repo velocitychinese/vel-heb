@@ -23834,7 +23834,42 @@
       "transliteration": "efshar, lir'ot et zeh mikarov?",
       "category": "Shopping",
       "generated_at": "2026-11-02T02:50:30.306606"
+    },
+    {
+      "english": "The air feels, so festive.",
+      "hebrew": "האוויר מרגיש, כל כך חגיגי.",
+      "transliteration": "ha'avir margish, kol kach chagigi.",
+      "category": "Holidays",
+      "generated_at": "2026-11-02T21:28:08.009254"
+    },
+    {
+      "english": "New beginnings, beckon us.",
+      "hebrew": "התחלות חדשות, קוראות לנו.",
+      "transliteration": "hatchalot chadashot, kor'ot lanu.",
+      "category": "Holidays",
+      "generated_at": "2026-11-02T21:28:08.009264"
+    },
+    {
+      "english": "A time for, reflection.",
+      "hebrew": "זמן ל, התבוננות.",
+      "transliteration": "zman le, hitbonenut.",
+      "category": "Holidays",
+      "generated_at": "2026-11-02T21:28:08.009266"
+    },
+    {
+      "english": "Let kindness, shine through.",
+      "hebrew": "שתחסד, יזרח.",
+      "transliteration": "she'checed, yizrach.",
+      "category": "Holidays",
+      "generated_at": "2026-11-02T21:28:08.009267"
+    },
+    {
+      "english": "The lights are, on again.",
+      "hebrew": "האורות דולקים, שוב.",
+      "transliteration": "ha'orot dolkim, shuv.",
+      "category": "Holidays",
+      "generated_at": "2026-11-02T21:28:08.009269"
     }
   ],
-  "last_updated": "2026-11-02T02:50:30.306607"
+  "last_updated": "2026-11-02T21:28:08.009270"
 }
