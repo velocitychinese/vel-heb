@@ -24184,7 +24184,42 @@
       "transliteration": "Toda lechat, ha-Simcha meקשiva, ve-ani mechayech.",
       "category": "Joy",
       "generated_at": "2026-11-04T20:44:34.472675"
+    },
+    {
+      "english": "Taste this, it’s smoky and smooth.",
+      "hebrew": "טעמו את זה, זה מעושן ורך.",
+      "transliteration": "Te'emu et ze, ze me'ushan v'rakh.",
+      "category": "Food",
+      "generated_at": "2026-11-04T22:18:24.287801"
+    },
+    {
+      "english": "First bite, then silence, wow.",
+      "hebrew": "ביס ראשון, אחר כך שקט, וואו.",
+      "transliteration": "Biss rishon, akhar kakh sheket, vaov.",
+      "category": "Food",
+      "generated_at": "2026-11-04T22:18:24.287812"
+    },
+    {
+      "english": "Can I try, one more spoon?",
+      "hebrew": "אפשר לטעום, כפית נוספת?",
+      "transliteration": "Efsar lite'om, kpitsah nosefet?",
+      "category": "Food",
+      "generated_at": "2026-11-04T22:18:24.287814"
+    },
+    {
+      "english": "Please warm it up, just a minute.",
+      "hebrew": "בבקשה תחממו, דקה אחת.",
+      "transliteration": "Bivakashah t'khammu, daka ekhat.",
+      "category": "Food",
+      "generated_at": "2026-11-04T22:18:24.287815"
+    },
+    {
+      "english": "This salad crunches, every single bite.",
+      "hebrew": "הסלט הזה פריך, כל ביס.",
+      "transliteration": "Ha-salat ha-zeh parikh, kol bis.",
+      "category": "Food",
+      "generated_at": "2026-11-04T22:18:24.287816"
     }
   ],
-  "last_updated": "2026-11-04T20:44:34.472677"
+  "last_updated": "2026-11-04T22:18:24.287818"
 }
