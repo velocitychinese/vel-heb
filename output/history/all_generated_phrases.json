@@ -24079,7 +24079,42 @@
       "transliteration": "Ha-yad sheli mosheita, le-ezra, hayom",
       "category": "Body Parts",
       "generated_at": "2026-11-03T22:10:45.930694"
+    },
+    {
+      "english": "Fear whispers, you answer, bravely, anyway.",
+      "hebrew": "פחד לוחש, ואת עונה, באומץ, בכל זאת.",
+      "transliteration": "Pachad lochesh, ve'atah oneh, be'ometz, bechol zot.",
+      "category": "Courage",
+      "generated_at": "2026-11-04T03:25:17.558585"
+    },
+    {
+      "english": "Take one step, and breathe, again.",
+      "hebrew": "צעד אחד, תנשום, ואז שוב.",
+      "transliteration": "Tsa'ad echad, tenshe'm, ve'az shuv.",
+      "category": "Courage",
+      "generated_at": "2026-11-04T03:25:17.558594"
+    },
+    {
+      "english": "Let doubt fade, keep walking, steady.",
+      "hebrew": "תן לספק לדעוך, לך הלאה, יציב.",
+      "transliteration": "Ten la'safek lide'och, lech la'oh, yatsiv.",
+      "category": "Courage",
+      "generated_at": "2026-11-04T03:25:17.558595"
+    },
+    {
+      "english": "Your knees tremble, stand up, softly strong.",
+      "hebrew": "הברכיים רועדות, קום, בעדינות, חזקה.",
+      "transliteration": "Ha'brekayim ro'odot, kum, be'dinut, chazakah.",
+      "category": "Courage",
+      "generated_at": "2026-11-04T03:25:17.558596"
+    },
+    {
+      "english": "Call it practice, not failure, learn.",
+      "hebrew": "תקרא לזה אימון, לא כישלון, תלמד.",
+      "transliteration": "Tekareh lazeh imon, lo khishlon, telamd.",
+      "category": "Courage",
+      "generated_at": "2026-11-04T03:25:17.558597"
     }
   ],
-  "last_updated": "2026-11-03T22:10:45.930696"
+  "last_updated": "2026-11-04T03:25:17.558598"
 }
