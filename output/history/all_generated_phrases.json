@@ -24359,7 +24359,42 @@
       "transliteration": "Helek le'mak'te'im ketanim, chazor, v'nikhrage.",
       "category": "Directions",
       "generated_at": "2026-11-05T21:03:07.383012"
+    },
+    {
+      "english": "Mom, your tea calms my nerves, always",
+      "hebrew": "אמא, התה שלך מרגיע אותי, תמיד",
+      "transliteration": "ima, hatah shelach me’rir et oti, tamid",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T22:28:55.685078"
+    },
+    {
+      "english": "Dad, your stories teach me, kindly",
+      "hebrew": "אבא, הסיפורים שלך מלמדים אותי, בעדינות",
+      "transliteration": "aba, hasipurim shelcha melamdim oti, badinot",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T22:28:55.685089"
+    },
+    {
+      "english": "Grandma, your hugs speak softly, to me",
+      "hebrew": "סבתא, החיבוקים שלך מדברים בשקט אליי",
+      "transliteration": "savta, hechibukim shelach medabrim besheket elai",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T22:28:55.685090"
+    },
+    {
+      "english": "Grandpa, your laugh lifts our home, up",
+      "hebrew": "סבא, הצחוק שלך מרים את הבית",
+      "transliteration": "saba, hatschok shelcha marim et habayit",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T22:28:55.685091"
+    },
+    {
+      "english": "Auntie, you listen first, then advise",
+      "hebrew": "דודה, את מקשיבה קודם, ואז מייעצת",
+      "transliteration": "doda, at mekshiva kodem, ve’az meyatzet",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T22:28:55.685092"
     }
   ],
-  "last_updated": "2026-11-05T21:03:07.383014"
+  "last_updated": "2026-11-05T22:28:55.685093"
 }
