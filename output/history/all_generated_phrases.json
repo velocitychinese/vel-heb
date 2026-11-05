@@ -24254,7 +24254,42 @@
       "transliteration": "Ani mevaser, ve ha-simcha chozeret be-shaket.",
       "category": "Happiness",
       "generated_at": "2026-11-05T00:44:00.860828"
+    },
+    {
+      "english": "Put on, the hoodie, please",
+      "hebrew": "שים על, את ההודי, בבקשה",
+      "transliteration": "sim al, et ha-hoodie, bevaqasha",
+      "category": "Clothes",
+      "generated_at": "2026-11-05T03:49:03.141924"
+    },
+    {
+      "english": "Try the hat, it fits well",
+      "hebrew": "תנסה את הכובע, זה יושב טוב",
+      "transliteration": "tenshe et ha-kovea, ze yoshev tov",
+      "category": "Clothes",
+      "generated_at": "2026-11-05T03:49:03.141934"
+    },
+    {
+      "english": "I like the color, very much",
+      "hebrew": "אני אוהב את הצבע, מאוד",
+      "transliteration": "ani ohev et ha-tzeva, me'od",
+      "category": "Clothes",
+      "generated_at": "2026-11-05T03:49:03.141936"
+    },
+    {
+      "english": "Your socks, are getting holes",
+      "hebrew": "הגרביים שלך, נהיים עם חורים",
+      "transliteration": "ha-grbayim shelach, ne'emim im chorim",
+      "category": "Clothes",
+      "generated_at": "2026-11-05T03:49:03.141937"
+    },
+    {
+      "english": "This zipper, works smoothly, today",
+      "hebrew": "הרוכסן הזה, עובד חלק, היום",
+      "transliteration": "ha-rochesan haze, oveid heleq, hayom",
+      "category": "Clothes",
+      "generated_at": "2026-11-05T03:49:03.141938"
     }
   ],
-  "last_updated": "2026-11-05T00:44:00.860830"
+  "last_updated": "2026-11-05T03:49:03.141939"
 }
