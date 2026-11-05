@@ -24324,7 +24324,42 @@
       "transliteration": "lekh be-edenut, shmor al mi-kud ba-merkhaz.",
       "category": "Balance",
       "generated_at": "2026-11-05T19:29:17.190832"
+    },
+    {
+      "english": "Say it once, then pause, listen.",
+      "hebrew": "אמר פעם אחת, ואז עצור, הקשב.",
+      "transliteration": "Emor pa'am achat, v'az otsor, hakev.",
+      "category": "Directions",
+      "generated_at": "2026-11-05T21:03:07.383000"
+    },
+    {
+      "english": "Start slow, then add energy, keep going.",
+      "hebrew": "התחל לאט, ואז תן אנרגיה, המשך.",
+      "transliteration": "Hatchal let, v'az ten anergya, hamshekh.",
+      "category": "Directions",
+      "generated_at": "2026-11-05T21:03:07.383008"
+    },
+    {
+      "english": "Touch the first sound, then release.",
+      "hebrew": "נגע בצליל הראשון, ואז שחרר.",
+      "transliteration": "Nega betz'il ha'rishon, v'az shachrer.",
+      "category": "Directions",
+      "generated_at": "2026-11-05T21:03:07.383010"
+    },
+    {
+      "english": "Mark the stress, say it again, steady.",
+      "hebrew": "סמן את ההדגשה, אמור שוב, יציב.",
+      "transliteration": "Siman et hadagasha, emor shuv, yatsiv.",
+      "category": "Directions",
+      "generated_at": "2026-11-05T21:03:07.383011"
+    },
+    {
+      "english": "Chunk it small, repeat, and relax.",
+      "hebrew": "חלק למקטעים קטנים, חזור, ונרגע.",
+      "transliteration": "Helek le'mak'te'im ketanim, chazor, v'nikhrage.",
+      "category": "Directions",
+      "generated_at": "2026-11-05T21:03:07.383012"
     }
   ],
-  "last_updated": "2026-11-05T19:29:17.190834"
+  "last_updated": "2026-11-05T21:03:07.383014"
 }
