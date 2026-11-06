@@ -24534,7 +24534,42 @@
       "transliteration": "Ha-milim shelkha, hivi'u li sheket, hayom.",
       "category": "Gratitude",
       "generated_at": "2026-11-06T21:54:14.491616"
+    },
+    {
+      "english": "Press enter, confirm your choice, then proceed.",
+      "hebrew": "לחץ אנטר, אשר את הבחירה, והמשך.",
+      "transliteration": "lachats entèr, asher et habchira, vehemshech.",
+      "category": "Technology",
+      "generated_at": "2026-11-06T23:57:44.442713"
+    },
+    {
+      "english": "Check the connection, breathe, then try again.",
+      "hebrew": "בדוק את החיבור, תנשום, ונסה שוב.",
+      "transliteration": "bdeq et hachibur, teneshom, ve-tesan shuv.",
+      "category": "Technology",
+      "generated_at": "2026-11-06T23:57:44.442724"
+    },
+    {
+      "english": "Turn on Bluetooth, find the device, connect.",
+      "hebrew": "הפעל בלוטות', מצא את המכשיר, חבר.",
+      "transliteration": "hafeil blutooth, matza et hamekhshir, chaber.",
+      "category": "Technology",
+      "generated_at": "2026-11-06T23:57:44.442725"
+    },
+    {
+      "english": "Secure your account, use a strong password.",
+      "hebrew": "אבטח את החשבון, השתמש בסיסמה חזקה.",
+      "transliteration": "avtach et hacheshbon, heshtamesh bi-sema chazaka.",
+      "category": "Technology",
+      "generated_at": "2026-11-06T23:57:44.442727"
+    },
+    {
+      "english": "Log in slowly, read the message, act.",
+      "hebrew": "התחבר לאט, קרא את ההודעה, ופעל.",
+      "transliteration": "hitchaber et, eet, kera et ha-hodaa, u-faal.",
+      "category": "Technology",
+      "generated_at": "2026-11-06T23:57:44.442728"
     }
   ],
-  "last_updated": "2026-11-06T21:54:14.491617"
+  "last_updated": "2026-11-06T23:57:44.442730"
 }
