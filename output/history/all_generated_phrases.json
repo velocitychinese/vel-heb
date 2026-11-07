@@ -24639,7 +24639,42 @@
       "transliteration": "kov'im ha'avara otomatit, notnim la'matematika la'azor.",
       "category": "Finance",
       "generated_at": "2026-11-07T17:25:35.087303"
+    },
+    {
+      "english": "Where can I try it on, please?",
+      "hebrew": "איפה אפשר לנסות את זה, בבקשה?",
+      "transliteration": "Eifo efshar lenasot et ze, bevakasha?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T18:34:49.759832"
+    },
+    {
+      "english": "Do you have my size, in this?",
+      "hebrew": "יש לכם את המידה שלי, בזה?",
+      "transliteration": "Yesh lachem et hamida sheli, bze?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T18:34:49.759843"
+    },
+    {
+      "english": "Is the material soft, to the touch?",
+      "hebrew": "האם הבד רך למגע, כן?",
+      "transliteration": "Ha'im ha'bad rak lamage, ken?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T18:34:49.759845"
+    },
+    {
+      "english": "Can I pay by card, here?",
+      "hebrew": "אפשר לשלם בכרטיס, כאן?",
+      "transliteration": "Efshar lishlom ba'kartis, kan?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T18:34:49.759846"
+    },
+    {
+      "english": "How much is it, before tax?",
+      "hebrew": "כמה זה עולה, לפני מע\"מ?",
+      "transliteration": "Kama ze ole, lifnei ma\"am?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T18:34:49.759847"
     }
   ],
-  "last_updated": "2026-11-07T17:25:35.087305"
+  "last_updated": "2026-11-07T18:34:49.759848"
 }
