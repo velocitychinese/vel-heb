@@ -24604,7 +24604,42 @@
       "transliteration": "Shekeshodaat l'cha, hayom sheli mitrachek.",
       "category": "Friendship",
       "generated_at": "2026-11-07T03:18:29.719872"
+    },
+    {
+      "english": "Count coins first, breathe, then budget.",
+      "hebrew": "סופרים מטבעות קודם, נושמים, ואז מתקצבים.",
+      "transliteration": "sof rim matbe'ot kodem, noshimim, az me taktsivim.",
+      "category": "Finance",
+      "generated_at": "2026-11-07T17:25:35.087286"
+    },
+    {
+      "english": "Save small today, build confidence tomorrow.",
+      "hebrew": "חוסכים קטן היום, בונים ביטחון מחר.",
+      "transliteration": "chosechim katan hayom, bonim bitachon machar.",
+      "category": "Finance",
+      "generated_at": "2026-11-07T17:25:35.087297"
+    },
+    {
+      "english": "Review spending weekly, adjust quietly, keep going.",
+      "hebrew": "בודקים הוצאות שבועיות, מתקנים בשקט, וממשיכים.",
+      "transliteration": "bodkim hotza'ot shvu'iyot, metakensh b'sheket, umemshichim.",
+      "category": "Finance",
+      "generated_at": "2026-11-07T17:25:35.087299"
+    },
+    {
+      "english": "Separate needs, then choose wants carefully.",
+      "hebrew": "מפרידים צרכים, ואז בוחרים רצונות בזהירות.",
+      "transliteration": "meparadim tzarachim, az bochirim retzonot bezahirut.",
+      "category": "Finance",
+      "generated_at": "2026-11-07T17:25:35.087301"
+    },
+    {
+      "english": "Set an automatic transfer, let math help.",
+      "hebrew": "קובעים העברה אוטומטית, נותנים למתמטיקה לעזור.",
+      "transliteration": "kov'im ha'avara otomatit, notnim la'matematika la'azor.",
+      "category": "Finance",
+      "generated_at": "2026-11-07T17:25:35.087303"
     }
   ],
-  "last_updated": "2026-11-07T03:18:29.719874"
+  "last_updated": "2026-11-07T17:25:35.087305"
 }
