@@ -24779,7 +24779,42 @@
       "transliteration": "Te'uyot korot, ani lomed, ani meamshekh.",
       "category": "Confidence",
       "generated_at": "2026-11-08T02:48:10.723574"
+    },
+    {
+      "english": "Hydrate slowly, today matters.",
+      "hebrew": "הישארי בלחות לאט, היום חשוב.",
+      "transliteration": "Hisari belochut la'at, hayom chashuv.",
+      "category": "Health",
+      "generated_at": "2026-11-08T17:36:38.840943"
+    },
+    {
+      "english": "Sip water, let your muscles relax.",
+      "hebrew": "לגמי מים, תני לשרירים להירגע.",
+      "transliteration": "Lagmi mayim, tni l'saririm lehirga.",
+      "category": "Health",
+      "generated_at": "2026-11-08T17:36:38.840955"
+    },
+    {
+      "english": "Stand tall, shoulders soft, jaw unclenched.",
+      "hebrew": "עמדי זקוף, כתפיים רכות, לסת רגועה.",
+      "transliteration": "Amdi zaquf, ktapayim rakot, leset regu'ah.",
+      "category": "Health",
+      "generated_at": "2026-11-08T17:36:38.840956"
+    },
+    {
+      "english": "Chew mindfully, small bites soothe cravings.",
+      "hebrew": "לעסי במודעות, ביסים קטנים מרגיעים חשקים.",
+      "transliteration": "La'asi be-modaut, bisim ketanim merag'im chakim.",
+      "category": "Health",
+      "generated_at": "2026-11-08T17:36:38.840957"
+    },
+    {
+      "english": "Notice hunger, pause, choose kindly.",
+      "hebrew": "שימי לב לרעב, עצרי, בחרי בחמלה.",
+      "transliteration": "Shimi לב la-re'av, atzri, bachri b'chemla.",
+      "category": "Health",
+      "generated_at": "2026-11-08T17:36:38.840958"
     }
   ],
-  "last_updated": "2026-11-08T02:48:10.723575"
+  "last_updated": "2026-11-08T17:36:38.840959"
 }
