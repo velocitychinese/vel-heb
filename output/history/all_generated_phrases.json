@@ -24744,7 +24744,42 @@
       "transliteration": "Lamad milah, hishtamesh bah hayom, chickhech.",
       "category": "Motivation",
       "generated_at": "2026-11-07T23:25:54.396721"
+    },
+    {
+      "english": "I can try, right now, softly.",
+      "hebrew": "אני יכול לנסות, עכשיו, בעדינות.",
+      "transliteration": "Ani yachol linasot, akhshav, bedidut.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T02:48:10.723561"
+    },
+    {
+      "english": "Say it once, then adjust, calmly.",
+      "hebrew": "תגיד פעם אחת, ואז תתקן, בשלווה.",
+      "transliteration": "Tagid paam achat, v'az tetaken, b'shlevah.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T02:48:10.723570"
+    },
+    {
+      "english": "Small words, big meaning, keep going.",
+      "hebrew": "מילים קטנות, משמעות גדולה, תמשיך.",
+      "transliteration": "Mילים ketanot, mishma'ut gedolah, tamshekh.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T02:48:10.723572"
+    },
+    {
+      "english": "Pause to listen, then speak again.",
+      "hebrew": "תעצור כדי להקשיב, ואז תדבר שוב.",
+      "transliteration": "Taatzor kedei lehakshiv, v'az tedaber shuv.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T02:48:10.723573"
+    },
+    {
+      "english": "Mistakes happen, I learn, I continue.",
+      "hebrew": "טעויות קורות, אני לומד, אני ממשיך.",
+      "transliteration": "Te'uyot korot, ani lomed, ani meamshekh.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T02:48:10.723574"
     }
   ],
-  "last_updated": "2026-11-07T23:25:54.396722"
+  "last_updated": "2026-11-08T02:48:10.723575"
 }
