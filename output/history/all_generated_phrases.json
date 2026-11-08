@@ -24884,7 +24884,42 @@
       "transliteration": "barech et ha-boker, behakarat toda shketah",
       "category": "Wisdom",
       "generated_at": "2026-11-08T20:55:43.846767"
+    },
+    {
+      "english": "Good morning, where is the bus stop?",
+      "hebrew": "בוקר טוב, איפה תחנת האוטובוס?",
+      "transliteration": "boker tov, eifo tahanat ha-otobus?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T23:26:05.189926"
+    },
+    {
+      "english": "Can you show me, how to pay?",
+      "hebrew": "תוכלו להראות לי, איך משלמים?",
+      "transliteration": "tuchlu leharot li, eikh meshalim?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T23:26:05.189939"
+    },
+    {
+      "english": "I’m looking for, a pharmacy nearby.",
+      "hebrew": "אני מחפש, בית מרקחת בקרבת מקום.",
+      "transliteration": "ani mevakesh, bet merkachat bekarvat makom.",
+      "category": "Travel",
+      "generated_at": "2026-11-08T23:26:05.189941"
+    },
+    {
+      "english": "Where is the beach, in this town?",
+      "hebrew": "איפה החוף, בעיר הזאת?",
+      "transliteration": "eifo ha-khof, ba-ir hazot?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T23:26:05.189942"
+    },
+    {
+      "english": "How much is it, for two tickets?",
+      "hebrew": "כמה זה עולה, לשני כרטיסים?",
+      "transliteration": "kam ze oleh, leshnei khartisim?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T23:26:05.189944"
     }
   ],
-  "last_updated": "2026-11-08T20:55:43.846768"
+  "last_updated": "2026-11-08T23:26:05.189945"
 }
