@@ -24919,7 +24919,42 @@
       "transliteration": "kam ze oleh, leshnei khartisim?",
       "category": "Travel",
       "generated_at": "2026-11-08T23:26:05.189944"
+    },
+    {
+      "english": "Hello, warm welcome, let’s start slowly.",
+      "hebrew": "שלום, ברוך הבא, בוא נתחיל לאט.",
+      "transliteration": "Shalom, baruch haba, bo neתחil laat.",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T03:06:19.804776"
+    },
+    {
+      "english": "Good to see you, say it again.",
+      "hebrew": "נעים לראות אותך, אמור שוב בבקשה.",
+      "transliteration": "Naim lirot otcha, emor shuv bevakashah.",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T03:06:19.804784"
+    },
+    {
+      "english": "You’re doing great, breathe and continue.",
+      "hebrew": "אתה מסתדר, נְשׁוּם וּמְשִׁיךְ.",
+      "transliteration": "Atah mistader, neshum umechich.",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T03:06:19.804786"
+    },
+    {
+      "english": "Today’s word is simple, try it.",
+      "hebrew": "המילה של היום פשוטה, תנסה אותה.",
+      "transliteration": "Ha-milah shel hayom peshutah, tisa otah.",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T03:06:19.804787"
+    },
+    {
+      "english": "Welcome back, ready for a new sound?",
+      "hebrew": "ברוך שובך, מוכן לצליל חדש?",
+      "transliteration": "Baruch shuvkha, mokhen la-tselil chadash?",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T03:06:19.804788"
     }
   ],
-  "last_updated": "2026-11-08T23:26:05.189945"
+  "last_updated": "2026-11-09T03:06:19.804790"
 }
