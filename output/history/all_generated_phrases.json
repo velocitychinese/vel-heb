@@ -25164,7 +25164,42 @@
       "transliteration": "komekun nekhushet, ketom nekhushet khalud",
       "category": "Colors",
       "generated_at": "2026-11-10T19:19:18.922785"
+    },
+    {
+      "english": "Close your eyes, let the beat glow",
+      "hebrew": "עצום עיניים, ותן לקצב לזרוח",
+      "transliteration": "e-tsom ei-naim, ve-tan le-ka-tsav li-zro-ach",
+      "category": "Music",
+      "generated_at": "2026-11-10T20:45:07.479747"
+    },
+    {
+      "english": "Tap lightly, count two beats, breathe",
+      "hebrew": "הקש בעדינות, ספר שני פעימות, תנשום",
+      "transliteration": "hakesh be-adi-nut, sefor shnei pe-i-mo-t, tin-shom",
+      "category": "Music",
+      "generated_at": "2026-11-10T20:45:07.479761"
+    },
+    {
+      "english": "Lift your voice, start with one note",
+      "hebrew": "הרם את הקול, התחל עם תו אחד",
+      "transliteration": "ha-rem et ha-kol, te-chil im t-u e-chad",
+      "category": "Music",
+      "generated_at": "2026-11-10T20:45:07.479762"
+    },
+    {
+      "english": "Hands on your chest, feel the bass",
+      "hebrew": "ידיים על החזה, הרגש את הבס",
+      "transliteration": "ya-daim al ha-chazeh, har-gesh et ha-bas",
+      "category": "Music",
+      "generated_at": "2026-11-10T20:45:07.479764"
+    },
+    {
+      "english": "Turn the volume down, listen more",
+      "hebrew": "הנמך את הווליום, הקשב יותר",
+      "transliteration": "he-nemech et ha-vo-li-um, ha-kev-av yoter",
+      "category": "Music",
+      "generated_at": "2026-11-10T20:45:07.479765"
     }
   ],
-  "last_updated": "2026-11-10T19:19:18.922787"
+  "last_updated": "2026-11-10T20:45:07.479766"
 }
