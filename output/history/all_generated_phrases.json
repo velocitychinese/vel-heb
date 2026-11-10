@@ -25129,7 +25129,42 @@
       "transliteration": "anachnu lo meskimim, az mechabdim",
       "category": "Relationships",
       "generated_at": "2026-11-10T04:50:34.081287"
+    },
+    {
+      "english": "Sunlit grass, fresh spring green",
+      "hebrew": "דשא בשמש, ירוק של אביב",
+      "transliteration": "desha beshemesh, yaarok shel aviv",
+      "category": "Colors",
+      "generated_at": "2026-11-10T19:19:18.922770"
+    },
+    {
+      "english": "Whispering leaves, cool sage green",
+      "hebrew": "עלים לוחשים, ירוק מרווה קריר",
+      "transliteration": "alim lokhshim, yaarok marveh kari",
+      "category": "Colors",
+      "generated_at": "2026-11-10T19:19:18.922781"
+    },
+    {
+      "english": "Caramel drizzle, warm honey brown",
+      "hebrew": "זליפת קרמל, חום דבש חמים",
+      "transliteration": "zlifat karamell, khom devash khamim",
+      "category": "Colors",
+      "generated_at": "2026-11-10T19:19:18.922783"
+    },
+    {
+      "english": "Toasted bread, deep toast brown",
+      "hebrew": "לחם קלוי, חום קלוי עמוק",
+      "transliteration": "lechem kaly, khom kaly amooq",
+      "category": "Colors",
+      "generated_at": "2026-11-10T19:19:18.922784"
+    },
+    {
+      "english": "Copper kettle, rusty copper orange",
+      "hebrew": "קומקום נחושת, כתום נחושת חלוד",
+      "transliteration": "komekun nekhushet, ketom nekhushet khalud",
+      "category": "Colors",
+      "generated_at": "2026-11-10T19:19:18.922785"
     }
   ],
-  "last_updated": "2026-11-10T04:50:34.081288"
+  "last_updated": "2026-11-10T19:19:18.922787"
 }
