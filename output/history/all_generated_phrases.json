@@ -25024,7 +25024,42 @@
       "transliteration": "ten la-fachad ledaber, ve'tamsikh leha'ah.",
       "category": "Courage",
       "generated_at": "2026-11-09T23:20:24.654582"
+    },
+    {
+      "english": "Welcome, take a breath, greet with warmth.",
+      "hebrew": "ברוך הבא, קח נשימה, ברך בחום.",
+      "transliteration": "Barukh ha-ba, kach neshima, berekh b’khome.",
+      "category": "Culture",
+      "generated_at": "2026-11-10T00:31:13.000699"
+    },
+    {
+      "english": "Say shalom, smile softly, move forward.",
+      "hebrew": "אמור שלום, חייך בעדינות, המשך קדימה.",
+      "transliteration": "Emor shalom, chayekh b’adinoot, ha-meshakh kedima.",
+      "category": "Culture",
+      "generated_at": "2026-11-10T00:31:13.000710"
+    },
+    {
+      "english": "Raise your glass, make a toast together.",
+      "hebrew": "הרם כוס, עשה לחיים ביחד.",
+      "transliteration": "Herem kos, aseh lechaim yachad.",
+      "category": "Culture",
+      "generated_at": "2026-11-10T00:31:13.000712"
+    },
+    {
+      "english": "Listen closely, answer gently, keep the conversation alive.",
+      "hebrew": "הקשב מקרוב, ענה בעדינות, שמור על שיחה.",
+      "transliteration": "Hekshiv me-karov, ane be-adeinim, shmor al si-cha.",
+      "category": "Culture",
+      "generated_at": "2026-11-10T00:31:13.000713"
+    },
+    {
+      "english": "Ask first, then share, build trust slowly.",
+      "hebrew": "שאל קודם, אחר כך שתף, בנה אמון לאט.",
+      "transliteration": "Sha’al kodem, achar kakh shetolf, bene emun la-at.",
+      "category": "Culture",
+      "generated_at": "2026-11-10T00:31:13.000714"
     }
   ],
-  "last_updated": "2026-11-09T23:20:24.654583"
+  "last_updated": "2026-11-10T00:31:13.000716"
 }
