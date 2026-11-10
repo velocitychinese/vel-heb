@@ -25059,7 +25059,42 @@
       "transliteration": "Sha’al kodem, achar kakh shetolf, bene emun la-at.",
       "category": "Culture",
       "generated_at": "2026-11-10T00:31:13.000714"
+    },
+    {
+      "english": "Morning fog lifts, and the hills breathe",
+      "hebrew": "ערפל הבוקר מתפזר, והגבעות נושמות",
+      "transliteration": "arafel haboker mitpazer, ve-hagva'ot noshemot",
+      "category": "Nature",
+      "generated_at": "2026-11-10T02:36:58.119552"
+    },
+    {
+      "english": "Pine needles whisper, under your quiet steps",
+      "hebrew": "מחטי אורן לוחשות, מתחת לצעדים השקטים שלך",
+      "transliteration": "machtei oren lochashot, mitachat la-tsaadim ha-shketim shelkha",
+      "category": "Nature",
+      "generated_at": "2026-11-10T02:36:58.119561"
+    },
+    {
+      "english": "River stones glow, after the rain stops",
+      "hebrew": "אבני הנהר זוהרות, אחרי שהגשם מפסיק",
+      "transliteration": "avnei ha-nehar zoherot, aḥarei she-ha-geshem mefsik",
+      "category": "Nature",
+      "generated_at": "2026-11-10T02:36:58.119563"
+    },
+    {
+      "english": "Leaves twirl down, like gentle handwriting",
+      "hebrew": "עלים מסתחררים מטה, כמו כתב יד עדין",
+      "transliteration": "alim mishtachererim mata, kmo ktav yad a'din",
+      "category": "Nature",
+      "generated_at": "2026-11-10T02:36:58.119565"
+    },
+    {
+      "english": "A distant owl calls, night listens closely",
+      "hebrew": "ינשוף מרחוק קורא, הלילה מקשיב מקרוב",
+      "transliteration": "yanshouf merachok kore, ha-layla meקשiv mi-qrov",
+      "category": "Nature",
+      "generated_at": "2026-11-10T02:36:58.119566"
     }
   ],
-  "last_updated": "2026-11-10T00:31:13.000716"
+  "last_updated": "2026-11-10T02:36:58.119568"
 }
