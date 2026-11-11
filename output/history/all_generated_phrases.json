@@ -25304,7 +25304,42 @@
       "transliteration": "Atzor kan, ha-tsemicha koreh be-sheket.",
       "category": "Patience",
       "generated_at": "2026-11-11T03:14:27.018043"
+    },
+    {
+      "english": "Mom, your voice calms me, right away.",
+      "hebrew": "אמא, הקול שלך מרגיע אותי, מיד.",
+      "transliteration": "Ima, ha-kol shelach meragie oti, miYad.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-11T19:15:03.831299"
+    },
+    {
+      "english": "Dad, your jokes glow, like candlelight.",
+      "hebrew": "אבא, הבדיחות שלך מאירות, כמו אור נרות.",
+      "transliteration": "Aba, ha-bdichot shelach me'irot, ke'mo or nerot.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-11T19:15:03.831308"
+    },
+    {
+      "english": "Grandma, your stories, warm my evenings.",
+      "hebrew": "סבתא, הסיפורים שלך מחממים לי את הערב.",
+      "transliteration": "Savta, ha-siporim shelach mechamim li et ha'erev.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-11T19:15:03.831310"
+    },
+    {
+      "english": "Grandpa, your silence, feels safe and steady.",
+      "hebrew": "סבא, השקט שלך מרגיש בטוח ויציב.",
+      "transliteration": "Saba, ha-sheket shelach mergish betu'ach ve-yatsiv.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-11T19:15:03.831311"
+    },
+    {
+      "english": "Aunt, your advice lands softly, every time.",
+      "hebrew": "דודה, העצה שלך נופלת בעדינות, כל פעם.",
+      "transliteration": "Doda, ha-etsah shelach nofelet be'adinuyut, kol pa'am.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-11T19:15:03.831313"
     }
   ],
-  "last_updated": "2026-11-11T03:14:27.018044"
+  "last_updated": "2026-11-11T19:15:03.831314"
 }
