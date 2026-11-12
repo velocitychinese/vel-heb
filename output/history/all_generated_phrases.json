@@ -25444,7 +25444,42 @@
       "transliteration": "Ein dagot, hakol beseder, bemet.",
       "category": "Common Expressions",
       "generated_at": "2026-11-12T01:48:59.671849"
+    },
+    {
+      "english": "The cat stretches, then purrs softly.",
+      "hebrew": "החתול נמתח, ואז מגרגר בעדינות.",
+      "transliteration": "Ha-chatul nemetach, ve-az me-gerger be-adeinút.",
+      "category": "Animals",
+      "generated_at": "2026-11-12T04:25:33.134656"
+    },
+    {
+      "english": "A dolphin leaps, it clicks like music.",
+      "hebrew": "דולפין קופץ, הוא לוחץ כמו מוזיקה.",
+      "transliteration": "Dolphin kofets, hu lokhets kemo muzika.",
+      "category": "Animals",
+      "generated_at": "2026-11-12T04:25:33.134666"
+    },
+    {
+      "english": "The hedgehog curls up, safe and quiet.",
+      "hebrew": "הקיפוד מתכרבל, בטוח ושקט.",
+      "transliteration": "Ha-kipód mitkárvel, betúach ve-shaket.",
+      "category": "Animals",
+      "generated_at": "2026-11-12T04:25:33.134668"
+    },
+    {
+      "english": "A rabbit hops, across the cool grass.",
+      "hebrew": "ארנב מדלג, על הדשא הקריר.",
+      "transliteration": "Arnév medalg, al ha-deshe ha-karir.",
+      "category": "Animals",
+      "generated_at": "2026-11-12T04:25:33.134669"
+    },
+    {
+      "english": "The crow tilts its head, listening carefully.",
+      "hebrew": "העורב מסובב ראש, ומקשיב בזהירות.",
+      "transliteration": "Ha-órév mesovév rosh, u-meqshiv be-zehirút.",
+      "category": "Animals",
+      "generated_at": "2026-11-12T04:25:33.134670"
     }
   ],
-  "last_updated": "2026-11-12T01:48:59.671850"
+  "last_updated": "2026-11-12T04:25:33.134672"
 }
