@@ -25479,7 +25479,42 @@
       "transliteration": "Ha-órév mesovév rosh, u-meqshiv be-zehirút.",
       "category": "Animals",
       "generated_at": "2026-11-12T04:25:33.134670"
+    },
+    {
+      "english": "Tap the rhythm, then say it clearly.",
+      "hebrew": "הקש על הקצב, ואז אמור ברור.",
+      "transliteration": "Hakesh al ha-ketz, ve-az emor barur.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:32:43.897259"
+    },
+    {
+      "english": "Pause after each word, let it land.",
+      "hebrew": "עצור אחרי כל מילה, תן לזה לנחות.",
+      "transliteration": "Etzor acharei kol milah, ten le-ze la-nu'ach.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:32:43.897270"
+    },
+    {
+      "english": "Learn one verb, practice it in a story.",
+      "hebrew": "למד פועל אחד, תרגל אותו בסיפור.",
+      "transliteration": "Lamed po'el echad, te'rgel oto be-sipur.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:32:43.897273"
+    },
+    {
+      "english": "Notice the root, feel the family grow.",
+      "hebrew": "שים לב לשורש, תרגיש שהמשפחה גדלה.",
+      "transliteration": "Sim lev la-shoresh, tirkhish she-ha-mishpachah gdela.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:32:43.897274"
+    },
+    {
+      "english": "Say hello, then listen for the reply.",
+      "hebrew": "אמור שלום, ואז האזן לתשובה.",
+      "transliteration": "Emor shalom, ve-az ha'zen la-teshuvah.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:32:43.897275"
     }
   ],
-  "last_updated": "2026-11-12T04:25:33.134672"
+  "last_updated": "2026-11-12T19:32:43.897277"
 }
