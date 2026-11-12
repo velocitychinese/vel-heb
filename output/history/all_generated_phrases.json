@@ -25409,7 +25409,42 @@
       "transliteration": "Tavi'u challah, teshetfu chiyuch cham.",
       "category": "Holidays",
       "generated_at": "2026-11-11T23:14:59.815427"
+    },
+    {
+      "english": "Hi there, how are you, today?",
+      "hebrew": "היי, איך אתה, היום?",
+      "transliteration": "Hey, eikh ata, hayom?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T01:48:59.671831"
+    },
+    {
+      "english": "Please wait a second, okay?",
+      "hebrew": "בבקשה, תחכה רגע, בסדר?",
+      "transliteration": "Bevakasha, takheh rega, beseder?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T01:48:59.671844"
+    },
+    {
+      "english": "I’m ready now, let’s try.",
+      "hebrew": "אני מוכן עכשיו, בוא ננסה.",
+      "transliteration": "Ani mukan akshav, bo ne’essē.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T01:48:59.671846"
+    },
+    {
+      "english": "Yes, I understand, go on.",
+      "hebrew": "כן, אני מבין, המשך.",
+      "transliteration": "Ken, ani mevin, hashekh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T01:48:59.671847"
+    },
+    {
+      "english": "No worries, it’s fine, really.",
+      "hebrew": "אין דאגות, הכל בסדר, באמת.",
+      "transliteration": "Ein dagot, hakol beseder, bemet.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T01:48:59.671849"
     }
   ],
-  "last_updated": "2026-11-11T23:14:59.815428"
+  "last_updated": "2026-11-12T01:48:59.671850"
 }
