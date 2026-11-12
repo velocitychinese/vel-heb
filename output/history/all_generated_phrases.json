@@ -25549,7 +25549,42 @@
       "transliteration": "Tse'edu kadima, ha-reg'a tomech ba'chem.",
       "category": "Time",
       "generated_at": "2026-11-12T21:23:14.620868"
+    },
+    {
+      "english": "I wash up, then I brush my teeth.",
+      "hebrew": "אני שוטף פנים, ואז מצחצח שיניים.",
+      "transliteration": "Ani shotef panim, ve'az motzachets shininayim.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T22:30:38.401855"
+    },
+    {
+      "english": "Breakfast time, I pour cereal into a bowl.",
+      "hebrew": "זמן ארוחת בוקר, אני מוזג דגני בוקר לקערה.",
+      "transliteration": "Zman aruchat boker, ani mozeg dnei boker lekeara.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T22:30:38.401864"
+    },
+    {
+      "english": "I open my curtains, daylight comes in.",
+      "hebrew": "אני פותח וילונות, אור יום נכנס.",
+      "transliteration": "Ani poteach vilonot, or yom nichnas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T22:30:38.401865"
+    },
+    {
+      "english": "I make my bed, neatly, without rushing.",
+      "hebrew": "אני מסדר את המיטה, מסודר, בלי למהר.",
+      "transliteration": "Ani mesader et hamita, mesudar, bli lemaher.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T22:30:38.401866"
+    },
+    {
+      "english": "I check the news, then I start work.",
+      "hebrew": "אני בודק חדשות, ואז מתחיל לעבוד.",
+      "transliteration": "Ani bodek hadashot, ve'az mehatil la'avod.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T22:30:38.401866"
     }
   ],
-  "last_updated": "2026-11-12T21:23:14.620869"
+  "last_updated": "2026-11-12T22:30:38.401867"
 }
