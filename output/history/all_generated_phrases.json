@@ -25619,7 +25619,42 @@
       "transliteration": "Ten la-lashon la-nuach, ha-tchal b'k'lut.",
       "category": "Directions",
       "generated_at": "2026-11-13T00:55:28.949222"
+    },
+    {
+      "english": "Balance your day, notice small wins, quietly.",
+      "hebrew": "איזן את היום, שים לב לניצחונות קטנים, בשקט.",
+      "transliteration": "izan et hayom, sim lev lenitsahonot ketanim, besheket",
+      "category": "Balance",
+      "generated_at": "2026-11-13T03:41:13.752757"
+    },
+    {
+      "english": "Pause, relax your shoulders, then breathe again.",
+      "hebrew": "עצור, הרפה מהכתפיים, ואז תנשום שוב.",
+      "transliteration": "estòr, harpe meha-ktafayim, ve-az tenashêm shuv",
+      "category": "Balance",
+      "generated_at": "2026-11-13T03:41:13.752770"
+    },
+    {
+      "english": "Let your focus land, like a gentle lamp.",
+      "hebrew": "תן למיקוד לנחות, כמו מנורה עדינה.",
+      "transliteration": "ten lemikud lenuach, kmo menora idina",
+      "category": "Balance",
+      "generated_at": "2026-11-13T03:41:13.752772"
+    },
+    {
+      "english": "Inhale calm, exhale effort, keep going softly.",
+      "hebrew": "שאף רוגע, נשוף מאמץ, והמשך בעדינות.",
+      "transliteration": "sha'ef ro'ga, neshof et ma'atz, veha'mesh bevo'dinuty",
+      "category": "Balance",
+      "generated_at": "2026-11-13T03:41:13.752774"
+    },
+    {
+      "english": "Move slow inside, act steady outside.",
+      "hebrew": "זוז לאט מבפנים, פעל יציב מבחוץ.",
+      "transliteration": "zu'v leat mibifnim, pe'al yatsiv mitchutz",
+      "category": "Balance",
+      "generated_at": "2026-11-13T03:41:13.752775"
     }
   ],
-  "last_updated": "2026-11-13T00:55:28.949224"
+  "last_updated": "2026-11-13T03:41:13.752777"
 }
