@@ -25584,7 +25584,42 @@
       "transliteration": "Ani bodek hadashot, ve'az mehatil la'avod.",
       "category": "Daily Routine",
       "generated_at": "2026-11-12T22:30:38.401866"
+    },
+    {
+      "english": "Say it, then stop, listen to yourself.",
+      "hebrew": "אמור את זה, ואז עצור, הקשב לעצמך.",
+      "transliteration": "Emor et ze, ve-az atzor, ha-keshiv le-atzmecha.",
+      "category": "Directions",
+      "generated_at": "2026-11-13T00:55:28.949206"
+    },
+    {
+      "english": "Point to the letters, feel each one.",
+      "hebrew": "הצביע על האותיות, הרגש כל אחת.",
+      "transliteration": "Hatzbiah al ha-otiyot, ha-regesh kol achat.",
+      "category": "Directions",
+      "generated_at": "2026-11-13T00:55:28.949217"
+    },
+    {
+      "english": "Nod gently, say it again, softly.",
+      "hebrew": "הנהן בעדינות, אמור שוב, ברכות.",
+      "transliteration": "Ha-neh b'eadinot, emor shuv, b'ra-chut.",
+      "category": "Directions",
+      "generated_at": "2026-11-13T00:55:28.949218"
+    },
+    {
+      "english": "Hold the first word, then continue smoothly.",
+      "hebrew": "החזק את המילה הראשונה, ואז המשך בצורה חלקה.",
+      "transliteration": "Hechevzat et ha-milah ha-rishonah, ve-az ha-meshich b'tzura chelekah.",
+      "category": "Directions",
+      "generated_at": "2026-11-13T00:55:28.949221"
+    },
+    {
+      "english": "Let your tongue rest, begin with ease.",
+      "hebrew": "תן ללשון לנוח, התחל בקלות.",
+      "transliteration": "Ten la-lashon la-nuach, ha-tchal b'k'lut.",
+      "category": "Directions",
+      "generated_at": "2026-11-13T00:55:28.949222"
     }
   ],
-  "last_updated": "2026-11-12T22:30:38.401867"
+  "last_updated": "2026-11-13T00:55:28.949224"
 }
