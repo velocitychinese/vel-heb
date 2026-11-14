@@ -25794,7 +25794,42 @@
       "transliteration": "henef et ha-ktafayim, ten lenokshut li-redet.",
       "category": "Health",
       "generated_at": "2026-11-14T00:40:45.106993"
+    },
+    {
+      "english": "My hands, waving hello, today.",
+      "hebrew": "הידיים שלי, מנופפות שלום, היום.",
+      "transliteration": "ha-yadayim sheli, menofefot shalom, hayom.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T03:40:59.362848"
+    },
+    {
+      "english": "Your wrists, turning gently, like a dance.",
+      "hebrew": "שורשי כף היד שלך, מסתובבים בעדינות, כמו ריקוד.",
+      "transliteration": "shorshei kaf ha-yad shelach, mistovevim be-edinut, ke-mo rikud.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T03:40:59.362859"
+    },
+    {
+      "english": "His shoulders, lifting, then relaxing, slowly.",
+      "hebrew": "הכתפיים שלו, מתרוממות, ואז נרגעות, לאט.",
+      "transliteration": "ha-ktafayim shelo, mitromemot, ve-az nerge'ot, la- at.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T03:40:59.362861"
+    },
+    {
+      "english": "Her back straightens, breathing in, now.",
+      "hebrew": "הגב שלה מתיישר, שואף אוויר, עכשיו.",
+      "transliteration": "ha-gev shela mit-yashēr, sho'ef avir, akshav.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T03:40:59.362862"
+    },
+    {
+      "english": "Our stomachs, rumbling softly, at lunch.",
+      "hebrew": "הבטן שלנו, מקרקרת בעדינות, בארוחת צהריים.",
+      "transliteration": "ha-beten shelanu, mekarkeret be-edinut, ba-arohat tzeharayim.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T03:40:59.362863"
     }
   ],
-  "last_updated": "2026-11-14T00:40:45.106995"
+  "last_updated": "2026-11-14T03:40:59.362864"
 }
