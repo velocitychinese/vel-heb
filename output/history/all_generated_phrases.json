@@ -25829,7 +25829,42 @@
       "transliteration": "ha-beten shelanu, mekarkeret be-edinut, ba-arohat tzeharayim.",
       "category": "Body Parts",
       "generated_at": "2026-11-14T03:40:59.362863"
+    },
+    {
+      "english": "Stop, step back now, please.",
+      "hebrew": "עצור, צעד אחורה עכשיו, בבקשה.",
+      "transliteration": "Atzor, tsed achora achshav, bevakasha.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T17:39:49.768404"
+    },
+    {
+      "english": "Call emergency services, right now, please.",
+      "hebrew": "התקשרו לשירותי חירום, עכשיו בבקשה.",
+      "transliteration": "Hitakašru lišerutei chirum, akhshav bevakasha.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T17:39:49.768419"
+    },
+    {
+      "english": "I smell smoke, near the ceiling, hurry.",
+      "hebrew": "אני מריח עשן, ליד התקרה, מהר.",
+      "transliteration": "Ani meriach ashan, yad ha-tikra, meher.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T17:39:49.768420"
+    },
+    {
+      "english": "My hands are shaking, I can't control it.",
+      "hebrew": "הידיים שלי רועדות, אני לא שולט בזה.",
+      "transliteration": "Hayadayim sheli roedot, ani lo shōlet ba-ze.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T17:39:49.768421"
+    },
+    {
+      "english": "I think I got shocked, turn off power!",
+      "hebrew": "נראה לי שקרה לי התחשמלות, כבו חשמל!",
+      "transliteration": "Nir’eh li shekara li hit’ashmelut, chabu chashmal!",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T17:39:49.768422"
     }
   ],
-  "last_updated": "2026-11-14T03:40:59.362864"
+  "last_updated": "2026-11-14T17:39:49.768424"
 }
