@@ -26074,7 +26074,42 @@
       "transliteration": "Ha’bad hazeh noshem, lekayitz",
       "category": "Clothes",
       "generated_at": "2026-11-15T19:39:31.351183"
+    },
+    {
+      "english": "Begin with one sound, then smile and continue",
+      "hebrew": "התחל בצליל אחד, ואז חייך והמשך",
+      "transliteration": "Hital b'tzila echad, v'az chiyukh v'hemsakh",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T21:25:56.929380"
+    },
+    {
+      "english": "Pause, breathe, and let the word land",
+      "hebrew": "עצור, תנשום, ותן למילה לנחות",
+      "transliteration": "Atzor, tinshom, v'ten la'milah lanu'ach",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T21:25:56.929390"
+    },
+    {
+      "english": "Listen first, then speak slowly, with kindness",
+      "hebrew": "הקשב קודם, ואז דבר לאט, בעדינות",
+      "transliteration": "Hechiv kodem, v'az dabbar la'at, b'adinut",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T21:25:56.929391"
+    },
+    {
+      "english": "Warm up your tongue, practice one sentence",
+      "hebrew": "חמם את הלשון, תתרגל משפט אחד",
+      "transliteration": "Chamem et ha-lashon, t'tragel mishpat echad",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T21:25:56.929392"
+    },
+    {
+      "english": "Ask why, then repeat, until it feels right",
+      "hebrew": "שאל למה, ואז חזור, עד שזה מרגיש נכון",
+      "transliteration": "Sha'al lama, v'az chazor, ad she-zeh margish nachon",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T21:25:56.929393"
     }
   ],
-  "last_updated": "2026-11-15T19:39:31.351185"
+  "last_updated": "2026-11-15T21:25:56.929394"
 }
