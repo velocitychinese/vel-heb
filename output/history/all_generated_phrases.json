@@ -26214,7 +26214,42 @@
       "transliteration": "tatsi’e mayim, tatsi’e chesed, tinshom leat.",
       "category": "Kindness",
       "generated_at": "2026-11-16T21:39:04.096714"
+    },
+    {
+      "english": "Hi there, breathe, let’s begin softly.",
+      "hebrew": "היי, תנשום, בוא נתחיל בעדינות.",
+      "transliteration": "Hei, tenishom, bo nehat’hil beedinut.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:16:34.006040"
+    },
+    {
+      "english": "Hello, listen closely, then repeat after me.",
+      "hebrew": "שלום, תקשיב מקרוב, ואז תחזור אחרי.",
+      "transliteration": "Shalom, tekshiv mekarev, ve’az tachzor acharei.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:16:34.006054"
+    },
+    {
+      "english": "Great job, slow down, you’ve got this.",
+      "hebrew": "כל הכבוד, תאט, יש לך את זה.",
+      "transliteration": "Kol hakavod, te’at, yesh l’cha et ze.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:16:34.006056"
+    },
+    {
+      "english": "Welcome in, today we learn one word.",
+      "hebrew": "ברוך הבא, היום לומדים מילה אחת.",
+      "transliteration": "Baruch haba, hayom lomdim milah achat.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:16:34.006057"
+    },
+    {
+      "english": "Hi friend, step by step, you’re learning.",
+      "hebrew": "היי חבר, צעד צעד, אתה לומד.",
+      "transliteration": "Hei haver, tsad tsad, ata lomed.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:16:34.006058"
     }
   ],
-  "last_updated": "2026-11-16T21:39:04.096716"
+  "last_updated": "2026-11-16T23:16:34.006059"
 }
