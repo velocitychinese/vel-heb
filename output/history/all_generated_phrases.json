@@ -26144,7 +26144,42 @@
       "transliteration": "Achshav ani meniach, im omets a-din.",
       "category": "Forgiveness",
       "generated_at": "2026-11-15T23:45:51.308251"
+    },
+    {
+      "english": "Turn on the screen, let it greet you.",
+      "hebrew": "הפעל את המסך, תן לו לברך אותך.",
+      "transliteration": "hefael et ha-masakh, ten lo levarekh otkha",
+      "category": "Technology",
+      "generated_at": "2026-11-16T03:17:59.204741"
+    },
+    {
+      "english": "Type carefully, the system listens closely.",
+      "hebrew": "הקלד בזהירות, המערכת מקשיבה מקרוב.",
+      "transliteration": "hakləd be-zaehirut, ha-merkazet me-kshiva me-qarov",
+      "category": "Technology",
+      "generated_at": "2026-11-16T03:17:59.204752"
+    },
+    {
+      "english": "Save your work, so nothing disappears.",
+      "hebrew": "שמור את העבודה, כדי ששום דבר לא ייעלם.",
+      "transliteration": "shmor et ha-avodah, kedei she-shum davar lo ye-iyalem",
+      "category": "Technology",
+      "generated_at": "2026-11-16T03:17:59.204753"
+    },
+    {
+      "english": "Scan the QR, then follow the next step.",
+      "hebrew": "סרוק את קוד ה QR, ואז המשך לשלב הבא.",
+      "transliteration": "se-roq et ko-d ha QR, ve-az he-meshakh le-shelav ha-ba",
+      "category": "Technology",
+      "generated_at": "2026-11-16T03:17:59.204755"
+    },
+    {
+      "english": "Keep your password private, protect your access.",
+      "hebrew": "שמור על הסיסמה פרטית, הגן על הגישה שלך.",
+      "transliteration": "shmor al ha-sisma par’it, he-gen al ha-gisha shelkha",
+      "category": "Technology",
+      "generated_at": "2026-11-16T03:17:59.204756"
     }
   ],
-  "last_updated": "2026-11-15T23:45:51.308252"
+  "last_updated": "2026-11-16T03:17:59.204758"
 }
