@@ -26529,7 +26529,42 @@
       "transliteration": "sav a, ata meקשיב היטב, vez noten chochma",
       "category": "Family Terms",
       "generated_at": "2026-11-18T04:46:19.371284"
+    },
+    {
+      "english": "I'm looking for a gift.",
+      "hebrew": "אני מחפש",
+      "transliteration": "ani mechapes/et mata'na.",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T08:54:44.544209"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "hebrew": "יש לך את זה בכחול?",
+      "transliteration": "yesh lecha et zeh be'kachol?",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T08:54:44.544224"
+    },
+    {
+      "english": "What a beautiful dress!",
+      "hebrew": "איזה שמלה יפה!",
+      "transliteration": "eizeh simla yafa!",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T08:54:44.544225"
+    },
+    {
+      "english": "Can I return this later?",
+      "hebrew": "אפשר להחזיר את זה אחר כך?",
+      "transliteration": "efshar le'hachzir et zeh acharei kach?",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T08:54:44.544226"
+    },
+    {
+      "english": "Is this on sale?",
+      "hebrew": "האם זה במבצע?",
+      "transliteration": "ha'im zeh be'mivtza?",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T08:54:44.544227"
     }
   ],
-  "last_updated": "2026-11-18T04:46:19.371286"
+  "last_updated": "2026-11-18T08:54:44.544228"
 }
