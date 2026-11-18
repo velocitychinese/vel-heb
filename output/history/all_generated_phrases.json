@@ -26599,7 +26599,42 @@
       "transliteration": "Eifo ha'sherutim?",
       "category": "Directions",
       "generated_at": "2026-11-18T19:58:56.880019"
+    },
+    {
+      "english": "Happy holiday, my friend.",
+      "hebrew": "חג שמח, חברי.",
+      "transliteration": "Chag sameach, chaveri.",
+      "category": "Holidays",
+      "generated_at": "2026-11-18T21:45:39.312907"
+    },
+    {
+      "english": "Shabbat Shalom to you.",
+      "hebrew": "שבת שלום לך.",
+      "transliteration": "Shabbat shalom lecha.",
+      "category": "Holidays",
+      "generated_at": "2026-11-18T21:45:39.312920"
+    },
+    {
+      "english": "May your holiday be sweet.",
+      "hebrew": "שתהיה לך חג מתיק.",
+      "transliteration": "Shetihiye lecha chag metuk.",
+      "category": "Holidays",
+      "generated_at": "2026-11-18T21:45:39.312921"
+    },
+    {
+      "english": "We light the menorah.",
+      "hebrew": "אנו מדליקים את המנורה.",
+      "transliteration": "Anu madlikim et ha'menorah.",
+      "category": "Holidays",
+      "generated_at": "2026-11-18T21:45:39.312922"
+    },
+    {
+      "english": "Let's celebrate together.",
+      "hebrew": "בואו נחגוג יחד.",
+      "transliteration": "Bo'u nechgog yachad.",
+      "category": "Holidays",
+      "generated_at": "2026-11-18T21:45:39.312922"
     }
   ],
-  "last_updated": "2026-11-18T19:58:56.880021"
+  "last_updated": "2026-11-18T21:45:39.312924"
 }
