@@ -26634,7 +26634,42 @@
       "transliteration": "Bo'u nechgog yachad.",
       "category": "Holidays",
       "generated_at": "2026-11-18T21:45:39.312922"
+    },
+    {
+      "english": "It's hot today, isn't it?",
+      "hebrew": "חַם הַיּוֹם, אֲהָא?",
+      "transliteration": "Chum hayom, aha?",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:14:14.234214"
+    },
+    {
+      "english": "It's going to rain soon.",
+      "hebrew": "עוֹמֵד לִגְשׁוֹם לְעוֹד מְעַט.",
+      "transliteration": "Omed ligshom le'od me'at.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:14:14.234231"
+    },
+    {
+      "english": "What lovely weather!",
+      "hebrew": "אֵיזֶה מֶזֶג אֲוִיר נָעִים!",
+      "transliteration": "Eizeh mezeig avir na'im!",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:14:14.234234"
+    },
+    {
+      "english": "The wind is blowing strongly.",
+      "hebrew": "הָרוּחַ נוֹשֶׁבֶת בְּעִצּוּמָה.",
+      "transliteration": "Ha'ruach noshevet be'itzuma.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:14:14.234237"
+    },
+    {
+      "english": "It's quite cold outside.",
+      "hebrew": "קַר לְמַדַּי בַּחוּץ.",
+      "transliteration": "Kar lemada'i ba'chutz.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:14:14.234239"
     }
   ],
-  "last_updated": "2026-11-18T21:45:39.312924"
+  "last_updated": "2026-11-18T23:14:14.234242"
 }
