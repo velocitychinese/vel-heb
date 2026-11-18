@@ -26564,7 +26564,42 @@
       "transliteration": "ha'im zeh be'mivtza?",
       "category": "Shopping",
       "generated_at": "2026-11-18T08:54:44.544227"
+    },
+    {
+      "english": "Say it again, please.",
+      "hebrew": "תגיד את זה שוב, בבקשה.",
+      "transliteration": "Tagid et zeh shuv, bevakasha.",
+      "category": "Directions",
+      "generated_at": "2026-11-18T19:58:56.879999"
+    },
+    {
+      "english": "How do you spell that?",
+      "hebrew": "איך כותבים את זה?",
+      "transliteration": "Eikh kotvim et zeh?",
+      "category": "Directions",
+      "generated_at": "2026-11-18T19:58:56.880013"
+    },
+    {
+      "english": "Speak slower, please.",
+      "hebrew": "דבר לאט יותר, בבקשה.",
+      "transliteration": "Daber le'at yoter, bevakasha.",
+      "category": "Directions",
+      "generated_at": "2026-11-18T19:58:56.880015"
+    },
+    {
+      "english": "I don't understand.",
+      "hebrew": "אני לא מבין.",
+      "transliteration": "Ani lo mevin.",
+      "category": "Directions",
+      "generated_at": "2026-11-18T19:58:56.880017"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "hebrew": "איפה השירותים?",
+      "transliteration": "Eifo ha'sherutim?",
+      "category": "Directions",
+      "generated_at": "2026-11-18T19:58:56.880019"
     }
   ],
-  "last_updated": "2026-11-18T08:54:44.544228"
+  "last_updated": "2026-11-18T19:58:56.880021"
 }
