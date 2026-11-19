@@ -26704,7 +26704,42 @@
       "transliteration": "Ha'adamah ha'keh'eh, admát shchorah.",
       "category": "Colors",
       "generated_at": "2026-11-19T02:00:43.169394"
+    },
+    {
+      "english": "I wake up early.",
+      "hebrew": "אני מתעורר מוקדם.",
+      "transliteration": "Ani mit'orer mukdam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T04:48:01.457054"
+    },
+    {
+      "english": "The sun is rising.",
+      "hebrew": "השמש זורחת.",
+      "transliteration": "Ha'shemesh zorachat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T04:48:01.457071"
+    },
+    {
+      "english": "I get out of bed.",
+      "hebrew": "אני יוצא מהמיטה.",
+      "transliteration": "Ani yotzeh meh'hamita.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T04:48:01.457073"
+    },
+    {
+      "english": "I stretch my arms.",
+      "hebrew": "אני מותח את זרועותיי.",
+      "transliteration": "Ani mote'ach et zro'otai.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T04:48:01.457074"
+    },
+    {
+      "english": "I go to the bathroom.",
+      "hebrew": "אני הולך לשירותים.",
+      "transliteration": "Ani holech lash'erutim.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T04:48:01.457076"
     }
   ],
-  "last_updated": "2026-11-19T02:00:43.169396"
+  "last_updated": "2026-11-19T04:48:01.457077"
 }
