@@ -26669,7 +26669,42 @@
       "transliteration": "Kar lemada'i ba'chutz.",
       "category": "Weather",
       "generated_at": "2026-11-18T23:14:14.234239"
+    },
+    {
+      "english": "A deep forest green.",
+      "hebrew": "ירוק יער עמוק.",
+      "transliteration": "Yarok ya'ar amok.",
+      "category": "Colors",
+      "generated_at": "2026-11-19T02:00:43.169372"
+    },
+    {
+      "english": "The sky, a brilliant azure.",
+      "hebrew": "השמיים, תכלת מבריקה.",
+      "transliteration": "Ha'shamayim, tchelet mabrikah.",
+      "category": "Colors",
+      "generated_at": "2026-11-19T02:00:43.169390"
+    },
+    {
+      "english": "Her dress, a ruby red.",
+      "hebrew": "השמלה שלה, אדום רובי.",
+      "transliteration": "Ha'smalah shela, adom rubi.",
+      "category": "Colors",
+      "generated_at": "2026-11-19T02:00:43.169392"
+    },
+    {
+      "english": "A soft lavender scent.",
+      "hebrew": "ניחוח לבנדר רך.",
+      "transliteration": "Ni'cho'ach lavendar rach.",
+      "category": "Colors",
+      "generated_at": "2026-11-19T02:00:43.169393"
+    },
+    {
+      "english": "The dark earth, black soil.",
+      "hebrew": "האדמה הכהה, אדמת שחורה.",
+      "transliteration": "Ha'adamah ha'keh'eh, admát shchorah.",
+      "category": "Colors",
+      "generated_at": "2026-11-19T02:00:43.169394"
     }
   ],
-  "last_updated": "2026-11-18T23:14:14.234242"
+  "last_updated": "2026-11-19T02:00:43.169396"
 }
