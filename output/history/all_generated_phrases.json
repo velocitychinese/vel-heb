@@ -26774,7 +26774,42 @@
       "transliteration": "zo arukhát hashabát hamésorétit shélanu.",
       "category": "Culture",
       "generated_at": "2026-11-19T19:57:31.223091"
+    },
+    {
+      "english": "You are my best friend.",
+      "hebrew": "את",
+      "transliteration": "At/a chaver/et ha'khi tov/t of sheli.",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T22:09:51.263172"
+    },
+    {
+      "english": "I love you very much.",
+      "hebrew": "אני אוהב",
+      "transliteration": "Ani ohev/et ot'kha/kh ot'akh me'od.",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T22:09:51.263192"
+    },
+    {
+      "english": "We are a great team.",
+      "hebrew": "אנחנו צוות מעולה.",
+      "transliteration": "Anachnu tzevet me'ule.",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T22:09:51.263193"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "hebrew": "הלב שלי שייך לך.",
+      "transliteration": "Ha'lev sheli shayach lekh/lakh.",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T22:09:51.263195"
+    },
+    {
+      "english": "We have so much fun.",
+      "hebrew": "כיף לנו ביחד.",
+      "transliteration": "Ke'f lanu be'yachad.",
+      "category": "Relationships",
+      "generated_at": "2026-11-19T22:09:51.263196"
     }
   ],
-  "last_updated": "2026-11-19T19:57:31.223093"
+  "last_updated": "2026-11-19T22:09:51.263198"
 }
