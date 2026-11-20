@@ -26984,7 +26984,42 @@
       "transliteration": "chabok et shlva ha'rega hazeh.",
       "category": "Inner Peace",
       "generated_at": "2026-11-20T21:44:43.552888"
+    },
+    {
+      "english": "Hello, what time is it?",
+      "hebrew": "שלום, מה השעה?",
+      "transliteration": "Shalom, ma hasha'ah?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T22:53:18.980521"
+    },
+    {
+      "english": "Excuse me, can you help me?",
+      "hebrew": "סליחה, אתה יכול לעזור לי?",
+      "transliteration": "Slicha, ata yachol la'azor li?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T22:53:18.980536"
+    },
+    {
+      "english": "I need a hotel, please.",
+      "hebrew": "אני צריך מלון, בבקשה.",
+      "transliteration": "Ani tzarich malon, bevakasha.",
+      "category": "Travel",
+      "generated_at": "2026-11-20T22:53:18.980537"
+    },
+    {
+      "english": "Where is the train station?",
+      "hebrew": "איפה תחנת הרכבת?",
+      "transliteration": "Eifo tachanat ha'rakevet?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T22:53:18.980539"
+    },
+    {
+      "english": "I'd like a ticket, to Tel Aviv.",
+      "hebrew": "אני רוצה כרטיס, לתל אביב.",
+      "transliteration": "Ani rotze kartis, le'Tel Aviv.",
+      "category": "Travel",
+      "generated_at": "2026-11-20T22:53:18.980540"
     }
   ],
-  "last_updated": "2026-11-20T21:44:43.552890"
+  "last_updated": "2026-11-20T22:53:18.980542"
 }
