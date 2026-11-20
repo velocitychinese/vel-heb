@@ -26914,7 +26914,42 @@
       "transliteration": "Tze'adim ktanim, totza'ot gdolot.",
       "category": "Motivation",
       "generated_at": "2026-11-20T04:27:20.370139"
+    },
+    {
+      "english": "Breathe in, feel the air.",
+      "hebrew": "שָׁאֵף, הַרְגֵּשׁ אֶת הָאֲוִיר.",
+      "transliteration": "sha'ef, hargeish et ha'avir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T19:37:11.735602"
+    },
+    {
+      "english": "Notice your body, right now.",
+      "hebrew": "שְׁיָים לַגּוּף שֶׁלְּךָ, כָּעֵת.",
+      "transliteration": "sh'yam laguf shelcha, ka'et.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T19:37:11.735616"
+    },
+    {
+      "english": "Just be, here, now.",
+      "hebrew": "פשוט הֱיֵה, כָּאן, עַכְשָׁו.",
+      "transliteration": "pashut heyeh, kan, achshav.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T19:37:11.735618"
+    },
+    {
+      "english": "Listen to your breath, gently.",
+      "hebrew": "הַקְשֵׁב לַנְּשִׁימָה שֶׁלְּךָ, בְּרַכּוּת.",
+      "transliteration": "hakshav laneshimah shelcha, berakut.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T19:37:11.735619"
+    },
+    {
+      "english": "Let thoughts come, and go.",
+      "hebrew": "תֵּן מַחְשָׁבוֹת לבוא, וללכת.",
+      "transliteration": "ten machshavot lavo, velalechet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T19:37:11.735621"
     }
   ],
-  "last_updated": "2026-11-20T04:27:20.370141"
+  "last_updated": "2026-11-20T19:37:11.735623"
 }
