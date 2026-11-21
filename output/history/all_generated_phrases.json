@@ -27089,7 +27089,42 @@
       "transliteration": "Ani margish mamash lo tov.",
       "category": "Emergency",
       "generated_at": "2026-11-21T04:21:05.604445"
+    },
+    {
+      "english": "My heart beats fast.",
+      "hebrew": "ליבי פועם במהירות.",
+      "transliteration": "libi po'em bim'hirut.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T18:41:53.355757"
+    },
+    {
+      "english": "His nose twitches.",
+      "hebrew": "אפו מִתְעַרְבֵּב.",
+      "transliteration": "apo mit'ar'bev.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T18:41:53.355769"
+    },
+    {
+      "english": "Her lips smile.",
+      "hebrew": "שפתיה מחייכות.",
+      "transliteration": "safotei mechaiechot.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T18:41:53.355771"
+    },
+    {
+      "english": "His neck is stiff.",
+      "hebrew": "צווארו נוקשה.",
+      "transliteration": "tzavaro nokesha.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T18:41:53.355773"
+    },
+    {
+      "english": "My finger points.",
+      "hebrew": "אצבעי מצביעה.",
+      "transliteration": "etzba'i matzbi'a.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T18:41:53.355775"
     }
   ],
-  "last_updated": "2026-11-21T04:21:05.604447"
+  "last_updated": "2026-11-21T18:41:53.355777"
 }
