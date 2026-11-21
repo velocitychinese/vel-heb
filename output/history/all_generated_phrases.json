@@ -27054,7 +27054,42 @@
       "transliteration": "Ha-smela shela, me'od elegantit.",
       "category": "Clothes",
       "generated_at": "2026-11-21T01:05:41.863829"
+    },
+    {
+      "english": "I need help, fast.",
+      "hebrew": "אני צריך עזרה, מהר.",
+      "transliteration": "Ani tzarich ezra, maher.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:21:05.604428"
+    },
+    {
+      "english": "Where is the nearest exit?",
+      "hebrew": "איפה היציאה הקרובה ביותר?",
+      "transliteration": "Eifo hayetziah hakrova beyoter?",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:21:05.604440"
+    },
+    {
+      "english": "I'm lost, can you assist?",
+      "hebrew": "אני אבוד, תוכל לסייע?",
+      "transliteration": "Ani avud, tuchal lesaye'a?",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:21:05.604442"
+    },
+    {
+      "english": "There's a problem, immediately.",
+      "hebrew": "יש בעיה, מיד.",
+      "transliteration": "Yesh be'aya, miyad.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:21:05.604444"
+    },
+    {
+      "english": "I feel very unwell.",
+      "hebrew": "אני מרגיש ממש לא טוב.",
+      "transliteration": "Ani margish mamash lo tov.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T04:21:05.604445"
     }
   ],
-  "last_updated": "2026-11-21T01:05:41.863831"
+  "last_updated": "2026-11-21T04:21:05.604447"
 }
