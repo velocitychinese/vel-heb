@@ -27229,7 +27229,42 @@
       "transliteration": "Shalom le'chulam, bo'u nit'chil.",
       "category": "Greetings",
       "generated_at": "2026-11-22T00:06:27.618557"
+    },
+    {
+      "english": "I let go of the hurt.",
+      "hebrew": "אני עוזב",
+      "transliteration": "ani ozev/ezet et ha-ke'ev.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T03:35:59.911540"
+    },
+    {
+      "english": "Peace between us, now.",
+      "hebrew": "שלום בינינו, עכשיו.",
+      "transliteration": "shalom beineinu, achshav.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T03:35:59.911553"
+    },
+    {
+      "english": "Let's start over.",
+      "hebrew": "בוא",
+      "transliteration": "bo/i nit'chil me'chadash.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T03:35:59.911554"
+    },
+    {
+      "english": "My heart is open.",
+      "hebrew": "ליבי פתוח.",
+      "transliteration": "libi patuach.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T03:35:59.911555"
+    },
+    {
+      "english": "We can move past this.",
+      "hebrew": "אנו יכולים להתגבר על זה.",
+      "transliteration": "anu yecholim lehitgaber al zeh.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T03:35:59.911557"
     }
   ],
-  "last_updated": "2026-11-22T00:06:27.618558"
+  "last_updated": "2026-11-22T03:35:59.911558"
 }
