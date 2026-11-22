@@ -27194,7 +27194,42 @@
       "transliteration": "Takshív, vehamilím yavo'ú.",
       "category": "Growth",
       "generated_at": "2026-11-21T21:58:46.553372"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "hebrew": "שלום, מה שלומך היום?",
+      "transliteration": "Shalom, ma shlomcha hayom?",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T00:06:27.618540"
+    },
+    {
+      "english": "Good morning, friend.",
+      "hebrew": "בוקר טוב, חבר.",
+      "transliteration": "Boker tov, chaver.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T00:06:27.618553"
+    },
+    {
+      "english": "Welcome, I'm happy you're here.",
+      "hebrew": "ברוכים הבאים, אני שמח שאתה כאן.",
+      "transliteration": "Bruchim haba'im, ani same'ach she'ata kan.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T00:06:27.618554"
+    },
+    {
+      "english": "Shalom! Nice to meet you.",
+      "hebrew": "שלום! נעים להכיר.",
+      "transliteration": "Shalom! Naim lehakir.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T00:06:27.618556"
+    },
+    {
+      "english": "Hello everyone, let's begin.",
+      "hebrew": "שלום לכולם, בואו נתחיל.",
+      "transliteration": "Shalom le'chulam, bo'u nit'chil.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T00:06:27.618557"
     }
   ],
-  "last_updated": "2026-11-21T21:58:46.553374"
+  "last_updated": "2026-11-22T00:06:27.618558"
 }
