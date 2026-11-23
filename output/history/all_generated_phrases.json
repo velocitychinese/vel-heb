@@ -27439,7 +27439,42 @@
       "transliteration": "Ha-ketzev madbek.",
       "category": "Music",
       "generated_at": "2026-11-23T04:08:24.658891"
+    },
+    {
+      "english": "Can I have some water, please?",
+      "hebrew": "אפשר לקבל מים, בבקשה?",
+      "transliteration": "Efshar lekabel mayim, bevakasha?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-23T23:23:40.026150"
+    },
+    {
+      "english": "What are today's specials?",
+      "hebrew": "מהן המנות המיוחדות להיום?",
+      "transliteration": "Mah-an ha-manot ha-meyuchedot le-hayom?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-23T23:23:40.026162"
+    },
+    {
+      "english": "We'd like a table for two.",
+      "hebrew": "נרצה שולחן לשניים.",
+      "transliteration": "Nirzeh shulchan le'shnayim.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-23T23:23:40.026164"
+    },
+    {
+      "english": "Is there outdoor seating?",
+      "hebrew": "האם יש ישיבה בחוץ?",
+      "transliteration": "Ha'im yesh yeshiva ba'chutz?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-23T23:23:40.026165"
+    },
+    {
+      "english": "This tastes delicious!",
+      "hebrew": "זה טעים להפליא!",
+      "transliteration": "Zeh ta'im le'hafli!",
+      "category": "Restaurant",
+      "generated_at": "2026-11-23T23:23:40.026167"
     }
   ],
-  "last_updated": "2026-11-23T04:08:24.658893"
+  "last_updated": "2026-11-23T23:23:40.026169"
 }
