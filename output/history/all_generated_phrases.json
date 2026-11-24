@@ -27579,7 +27579,42 @@
       "transliteration": "Shama'ta et ze? Amarta et ze nachon!",
       "category": "Success",
       "generated_at": "2026-11-24T04:37:06.526142"
+    },
+    {
+      "english": "It is raining now.",
+      "hebrew": "מִתְאַּכְּשֵׁם עַכְשָׁו.",
+      "transliteration": "Meyratzéchem achshav.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T07:09:35.837740"
+    },
+    {
+      "english": "The sun is shining brightly.",
+      "hebrew": "הַשֶּׁמֶשׁ זוֹרַחַת בְּהֶקְסֵם.",
+      "transliteration": "Hashemesh zorachat behekshem.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T07:09:35.837754"
+    },
+    {
+      "english": "It's very windy today.",
+      "hebrew": "יֵשׁ רוּחַ חֲזָקָה הַיּוֹם.",
+      "transliteration": "Yesh ruach chazakah hayom.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T07:09:35.837757"
+    },
+    {
+      "english": "A light shower is falling.",
+      "hebrew": "יֵשׁ טִפְטוּף קַל.",
+      "transliteration": "Yesh tiftuf kal.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T07:09:35.837758"
+    },
+    {
+      "english": "The sky is clear and blue.",
+      "hebrew": "הַשָּׁמַיִם צְלוּלִים וּכְחֻלִּים.",
+      "transliteration": "Hashamayim tz'lulim uch'chulim.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T07:09:35.837760"
     }
   ],
-  "last_updated": "2026-11-24T04:37:06.526145"
+  "last_updated": "2026-11-24T07:09:35.837762"
 }
