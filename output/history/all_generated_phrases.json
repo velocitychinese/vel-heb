@@ -27509,7 +27509,42 @@
       "transliteration": "Ha-salat ha-zeh tov.",
       "category": "Food",
       "generated_at": "2026-11-24T01:33:56.446860"
+    },
+    {
+      "english": "Wait a moment, it will be okay.",
+      "hebrew": "חכה רגע, יהיה בסדר.",
+      "transliteration": "Hekeh rega, yihiyeh beseder.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T03:07:57.333544"
+    },
+    {
+      "english": "This takes time, let it flow.",
+      "hebrew": "זה לוקח זמן, תן לזה לזרום.",
+      "transliteration": "Ze loké'ach zman, ten leze lizrom.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T03:07:57.333562"
+    },
+    {
+      "english": "Don't rush, the path unfolds.",
+      "hebrew": "אל תמהר, הדרך מתגלה.",
+      "transliteration": "Al tameher, haderekh mitgalé.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T03:07:57.333564"
+    },
+    {
+      "english": "Soon, you will see.",
+      "hebrew": "בקרוב, תראה.",
+      "transliteration": "Bekarov, tir'eh.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T03:07:57.333566"
+    },
+    {
+      "english": "Just wait, it's coming.",
+      "hebrew": "פשוט חכה, זה בא.",
+      "transliteration": "Pashut hekeh, ze ba.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T03:07:57.333568"
     }
   ],
-  "last_updated": "2026-11-24T01:33:56.446862"
+  "last_updated": "2026-11-24T03:07:57.333570"
 }
