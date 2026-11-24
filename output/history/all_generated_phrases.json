@@ -27474,7 +27474,42 @@
       "transliteration": "Zeh ta'im le'hafli!",
       "category": "Restaurant",
       "generated_at": "2026-11-23T23:23:40.026167"
+    },
+    {
+      "english": "This bread is fresh.",
+      "hebrew": "הלחם הזה טרי.",
+      "transliteration": "Ha-lehem ha-zeh tari.",
+      "category": "Food",
+      "generated_at": "2026-11-24T01:33:56.446842"
+    },
+    {
+      "english": "More coffee, please.",
+      "hebrew": "עוד קפה, בבקשה.",
+      "transliteration": "Od kafeh, bevakasha.",
+      "category": "Food",
+      "generated_at": "2026-11-24T01:33:56.446855"
+    },
+    {
+      "english": "I love this cake.",
+      "hebrew": "אני אוהב את העוגה הזו.",
+      "transliteration": "Ani ohev et ha-ugah ha-zo.",
+      "category": "Food",
+      "generated_at": "2026-11-24T01:33:56.446857"
+    },
+    {
+      "english": "What a delicious meal!",
+      "hebrew": "איזו ארוחה טעימה!",
+      "transliteration": "Eizo arucha te'ima!",
+      "category": "Food",
+      "generated_at": "2026-11-24T01:33:56.446858"
+    },
+    {
+      "english": "This salad is good.",
+      "hebrew": "הסלט הזה טוב.",
+      "transliteration": "Ha-salat ha-zeh tov.",
+      "category": "Food",
+      "generated_at": "2026-11-24T01:33:56.446860"
     }
   ],
-  "last_updated": "2026-11-23T23:23:40.026169"
+  "last_updated": "2026-11-24T01:33:56.446862"
 }
