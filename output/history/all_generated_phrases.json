@@ -27544,7 +27544,42 @@
       "transliteration": "Pashut hekeh, ze ba.",
       "category": "Patience",
       "generated_at": "2026-11-24T03:07:57.333568"
+    },
+    {
+      "english": "This is a fantastic start, really.",
+      "hebrew": "זו התחלה נהדרת, באמת.",
+      "transliteration": "Zo hatchala nehederet, be'emet.",
+      "category": "Success",
+      "generated_at": "2026-11-24T04:37:06.526121"
+    },
+    {
+      "english": "Almost there, one more try!",
+      "hebrew": "כמעט שם, עוד ניסיון אחד!",
+      "transliteration": "Kim'at sham, od nisayon echad!",
+      "category": "Success",
+      "generated_at": "2026-11-24T04:37:06.526137"
+    },
+    {
+      "english": "That sounds perfect, well done!",
+      "hebrew": "זה נשמע מושלם, כל הכבוד!",
+      "transliteration": "Ze nishma mushlam, kol hakavod!",
+      "category": "Success",
+      "generated_at": "2026-11-24T04:37:06.526139"
+    },
+    {
+      "english": "Progress is visible, excellent work.",
+      "hebrew": "ההתקדמות ניכרת, עבודה מצוינת.",
+      "transliteration": "Hahitkadmut nikeret, avoda metzuyenet.",
+      "category": "Success",
+      "generated_at": "2026-11-24T04:37:06.526140"
+    },
+    {
+      "english": "Hear that? You said it right!",
+      "hebrew": "שמעת את זה? אמרת את זה נכון!",
+      "transliteration": "Shama'ta et ze? Amarta et ze nachon!",
+      "category": "Success",
+      "generated_at": "2026-11-24T04:37:06.526142"
     }
   ],
-  "last_updated": "2026-11-24T03:07:57.333570"
+  "last_updated": "2026-11-24T04:37:06.526145"
 }
