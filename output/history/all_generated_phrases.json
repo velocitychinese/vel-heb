@@ -27614,7 +27614,42 @@
       "transliteration": "Hashamayim tz'lulim uch'chulim.",
       "category": "Weather",
       "generated_at": "2026-11-24T07:09:35.837760"
+    },
+    {
+      "english": "Happy Hanukkah, everyone!",
+      "hebrew": "חג חנוכה שמח לכולם!",
+      "transliteration": "Chag Chanukah Same'ach lekulam!",
+      "category": "Holidays",
+      "generated_at": "2026-11-24T21:55:09.330975"
+    },
+    {
+      "english": "We wish you a happy holiday.",
+      "hebrew": "אנו מאחלים לכם חג שמח.",
+      "transliteration": "Anu me'achalim lachem chag same'ach.",
+      "category": "Holidays",
+      "generated_at": "2026-11-24T21:55:09.330992"
+    },
+    {
+      "english": "Let's light the candles now.",
+      "hebrew": "בואו נדליק את הנרות עכשיו.",
+      "transliteration": "Bo'u nadlik et hanerot achshav.",
+      "category": "Holidays",
+      "generated_at": "2026-11-24T21:55:09.330993"
+    },
+    {
+      "english": "This is a special time.",
+      "hebrew": "זהו זמן מיוחד.",
+      "transliteration": "Zehu zman meyuchad.",
+      "category": "Holidays",
+      "generated_at": "2026-11-24T21:55:09.330994"
+    },
+    {
+      "english": "May your year be blessed.",
+      "hebrew": "שתהיה שנתכם מבורכת.",
+      "transliteration": "She'tihiyeh shnatchem mevorachet.",
+      "category": "Holidays",
+      "generated_at": "2026-11-24T21:55:09.330994"
     }
   ],
-  "last_updated": "2026-11-24T07:09:35.837762"
+  "last_updated": "2026-11-24T21:55:09.330996"
 }
