@@ -27754,7 +27754,42 @@
       "transliteration": "Metach/Metchi et gufcha be'adinut.",
       "category": "Health",
       "generated_at": "2026-11-25T03:22:41.455391"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "hebrew": "בוקר טוב, לכולם.",
+      "transliteration": "Boker tov, le'kulam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T05:44:14.138471"
+    },
+    {
+      "english": "Thank you very much.",
+      "hebrew": "תודה רבה.",
+      "transliteration": "Toda raba.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T05:44:14.138486"
+    },
+    {
+      "english": "You're welcome, of course.",
+      "hebrew": "בבקשה, בשמחה.",
+      "transliteration": "Bevakasha, be'simcha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T05:44:14.138487"
+    },
+    {
+      "english": "Excuse me, please.",
+      "hebrew": "סליחה, בבקשה.",
+      "transliteration": "Slicha, bevakasha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T05:44:14.138488"
+    },
+    {
+      "english": "What is your name?",
+      "hebrew": "מה שמך?",
+      "transliteration": "Ma shimech?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T05:44:14.138488"
     }
   ],
-  "last_updated": "2026-11-25T03:22:41.455393"
+  "last_updated": "2026-11-25T05:44:14.138490"
 }
