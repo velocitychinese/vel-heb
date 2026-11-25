@@ -27684,7 +27684,42 @@
       "transliteration": "Hakshivu, ve-havinu yoter.",
       "category": "Inspiration",
       "generated_at": "2026-11-24T23:26:35.516557"
+    },
+    {
+      "english": "Do you have a bag?",
+      "hebrew": "יש לך שקית?",
+      "transliteration": "yesh lecha sakit?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:13:28.668934"
+    },
+    {
+      "english": "How much does this cost?",
+      "hebrew": "כמה זה עולה?",
+      "transliteration": "kama zeh ole?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:13:28.668945"
+    },
+    {
+      "english": "I'm just looking.",
+      "hebrew": "אני רק מסתכלת.",
+      "transliteration": "ani rak mistakelet.",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:13:28.668947"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "hebrew": "איפה תא ההלבשה?",
+      "transliteration": "eifo ta hahalbasha?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:13:28.668949"
+    },
+    {
+      "english": "Can I have a receipt?",
+      "hebrew": "אפשר לקבל קבלה?",
+      "transliteration": "efshar lekabel kabala?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:13:28.668950"
     }
   ],
-  "last_updated": "2026-11-24T23:26:35.516558"
+  "last_updated": "2026-11-25T01:13:28.668952"
 }
