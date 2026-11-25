@@ -27719,7 +27719,42 @@
       "transliteration": "efshar lekabel kabala?",
       "category": "Shopping",
       "generated_at": "2026-11-25T01:13:28.668950"
+    },
+    {
+      "english": "Take a deep breath.",
+      "hebrew": "קח",
+      "transliteration": "Kach/Kachi neshima amuka.",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:22:41.455374"
+    },
+    {
+      "english": "Feel your heart beating.",
+      "hebrew": "הרגיש",
+      "transliteration": "Hargish/Hargishi et libcha po'em.",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:22:41.455387"
+    },
+    {
+      "english": "Drink some water now.",
+      "hebrew": "שתה",
+      "transliteration": "Shte/Shti mayim achshav.",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:22:41.455389"
+    },
+    {
+      "english": "Rest your eyes a moment.",
+      "hebrew": "עצום",
+      "transliteration": "Atzum/Atzmi et eineich lerega.",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:22:41.455390"
+    },
+    {
+      "english": "Stretch your body gently.",
+      "hebrew": "מתח",
+      "transliteration": "Metach/Metchi et gufcha be'adinut.",
+      "category": "Health",
+      "generated_at": "2026-11-25T03:22:41.455391"
     }
   ],
-  "last_updated": "2026-11-25T01:13:28.668952"
+  "last_updated": "2026-11-25T03:22:41.455393"
 }
