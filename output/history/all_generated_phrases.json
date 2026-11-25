@@ -27824,7 +27824,42 @@
       "transliteration": "Kvar lamadeta/et kol kach harbe.",
       "category": "Confidence",
       "generated_at": "2026-11-25T21:03:33.542699"
+    },
+    {
+      "english": "My father's wisdom, guides me.",
+      "hebrew": "חוכמת אבא שלי, מנחה אותי.",
+      "transliteration": "Chochmat aba sheli, menacheh oti.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T23:00:33.683143"
+    },
+    {
+      "english": "Mom's cooking, tastes like home.",
+      "hebrew": "הבישול של אמא, טעים כמו בית.",
+      "transliteration": "Habishul shel ima, ta'im kmo bayit.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T23:00:33.683160"
+    },
+    {
+      "english": "My brother, my best friend.",
+      "hebrew": "אחי, החבר הכי טוב שלי.",
+      "transliteration": "Achí, hachaver hachí tov sheli.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T23:00:33.683163"
+    },
+    {
+      "english": "Sister's advice, always helpful.",
+      "hebrew": "עצת אחותי, תמיד מועילה.",
+      "transliteration": "Etsat achoti, tamid mo'íla.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T23:00:33.683165"
+    },
+    {
+      "english": "My son's laughter, brightens my day.",
+      "hebrew": "צחוק הבן שלי, מאיר את יומי.",
+      "transliteration": "Tzchok haben sheli, me'ír et yomí.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T23:00:33.683166"
     }
   ],
-  "last_updated": "2026-11-25T21:03:33.542701"
+  "last_updated": "2026-11-25T23:00:33.683168"
 }
