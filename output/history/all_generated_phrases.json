@@ -27789,7 +27789,42 @@
       "transliteration": "Ma shimech?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-25T05:44:14.138488"
+    },
+    {
+      "english": "Your Hebrew is getting better.",
+      "hebrew": "העברית שלך משתפרת.",
+      "transliteration": "Ha'ivrit shelcha mishtapere",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T21:03:33.542677"
+    },
+    {
+      "english": "Don't be afraid to try.",
+      "hebrew": "אל תפחדי",
+      "transliteration": "Al tifchadi/i lenasot.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T21:03:33.542694"
+    },
+    {
+      "english": "Every attempt helps you.",
+      "hebrew": "כל ניסיון עוזר לך.",
+      "transliteration": "Kol nisayon ozer lecha.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T21:03:33.542696"
+    },
+    {
+      "english": "Just relax and speak.",
+      "hebrew": "פשוט תירגע",
+      "transliteration": "Pashut tirga/i vedaber/i.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T21:03:33.542697"
+    },
+    {
+      "english": "You've learned so much already.",
+      "hebrew": "כבר למדת כל כך הרבה.",
+      "transliteration": "Kvar lamadeta/et kol kach harbe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T21:03:33.542699"
     }
   ],
-  "last_updated": "2026-11-25T05:44:14.138490"
+  "last_updated": "2026-11-25T21:03:33.542701"
 }
