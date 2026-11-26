@@ -27859,7 +27859,42 @@
       "transliteration": "Tzchok haben sheli, me'ír et yomí.",
       "category": "Family Terms",
       "generated_at": "2026-11-25T23:00:33.683166"
+    },
+    {
+      "english": "Say it one more time.",
+      "hebrew": "תגיד את זה עוד פעם.",
+      "transliteration": "Tagid et ze od pa'am.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:47:59.172789"
+    },
+    {
+      "english": "Can you repeat that?",
+      "hebrew": "אפשר לחזור על זה?",
+      "transliteration": "Efshar lachzor al ze?",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:47:59.172801"
+    },
+    {
+      "english": "Speak louder, please.",
+      "hebrew": "דבר יותר חזק, בבקשה.",
+      "transliteration": "Daber yoter chazak, bevakasha.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:47:59.172803"
+    },
+    {
+      "english": "Read this sentence.",
+      "hebrew": "קרא את המשפט הזה.",
+      "transliteration": "K'ra et hamishpat hazeh.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:47:59.172804"
+    },
+    {
+      "english": "Write it down now.",
+      "hebrew": "תכתוב את זה עכשיו.",
+      "transliteration": "Tichtov et ze achshav.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:47:59.172805"
     }
   ],
-  "last_updated": "2026-11-25T23:00:33.683168"
+  "last_updated": "2026-11-26T00:47:59.172807"
 }
