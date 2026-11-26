@@ -27964,7 +27964,42 @@
       "transliteration": "Taba'at ha-izmargad, yarok az.",
       "category": "Colors",
       "generated_at": "2026-11-26T05:33:26.826329"
+    },
+    {
+      "english": "I'm feeling happy, today.",
+      "hebrew": "אני שמח, היום.",
+      "transliteration": "Ani same'ach, hayom.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T20:55:11.977077"
+    },
+    {
+      "english": "She looks sad, a little.",
+      "hebrew": "היא נראית עצובה, קצת.",
+      "transliteration": "Hi nir'et atzuvah, ktzat.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T20:55:11.977095"
+    },
+    {
+      "english": "He is very angry.",
+      "hebrew": "הוא כועס מאוד.",
+      "transliteration": "Hu ko'es me'od.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T20:55:11.977096"
+    },
+    {
+      "english": "We are all excited.",
+      "hebrew": "כולנו מתרגשים.",
+      "transliteration": "Kulanu mitrage'shim.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T20:55:11.977097"
+    },
+    {
+      "english": "Are you feeling tired?",
+      "hebrew": "אתה מרגיש עייף?",
+      "transliteration": "Atah margish ayef?",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T20:55:11.977098"
     }
   ],
-  "last_updated": "2026-11-26T05:33:26.826331"
+  "last_updated": "2026-11-26T20:55:11.977099"
 }
