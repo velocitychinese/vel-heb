@@ -27929,7 +27929,42 @@
       "transliteration": "al mah atah choshev?",
       "category": "Common Expressions",
       "generated_at": "2026-11-26T02:39:26.900607"
+    },
+    {
+      "english": "Her scarf, a sunny yellow.",
+      "hebrew": "הצעיף שלה, צהוב שטוף שמש.",
+      "transliteration": "Ha-tza'if shela, tzahov shatuf shemesh.",
+      "category": "Colors",
+      "generated_at": "2026-11-26T05:33:26.826310"
+    },
+    {
+      "english": "The wine, a deep ruby red.",
+      "hebrew": "היין, אדום רובי עמוק.",
+      "transliteration": "Ha-yayin, adom ruby amok.",
+      "category": "Colors",
+      "generated_at": "2026-11-26T05:33:26.826325"
+    },
+    {
+      "english": "His tie, a classic navy blue.",
+      "hebrew": "העניבה שלו, כחול נייבי קלאסי.",
+      "transliteration": "Ha-anivah shelo, kachol navy klasi.",
+      "category": "Colors",
+      "generated_at": "2026-11-26T05:33:26.826327"
+    },
+    {
+      "english": "A field of lavender, soft purple.",
+      "hebrew": "שדה לבנדר, סגול רך.",
+      "transliteration": "Sadeh lavander, sagol rach.",
+      "category": "Colors",
+      "generated_at": "2026-11-26T05:33:26.826328"
+    },
+    {
+      "english": "The emerald ring, vibrant green.",
+      "hebrew": "טבעת האזמרגד, ירוק עז.",
+      "transliteration": "Taba'at ha-izmargad, yarok az.",
+      "category": "Colors",
+      "generated_at": "2026-11-26T05:33:26.826329"
     }
   ],
-  "last_updated": "2026-11-26T02:39:26.900609"
+  "last_updated": "2026-11-26T05:33:26.826331"
 }
