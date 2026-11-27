@@ -28034,7 +28034,28 @@
       "transliteration": "Ivrit nishma'at yafah, nakhon?",
       "category": "Motivation",
       "generated_at": "2026-11-26T22:54:09.308225"
+    },
+    {
+      "english": "Where can I find, a good restaurant?",
+      "hebrew": "איפה אפשר למצוא, מסעדה טובה?",
+      "transliteration": "Eifo efshar limtzo, mis'ada tova?",
+      "category": "Travel",
+      "generated_at": "2026-11-27T11:36:14.110242"
+    },
+    {
+      "english": "This market, is so vibrant.",
+      "hebrew": "השוק הזה, כל כך תוסס.",
+      "transliteration": "Ha'shuk haze, kol kach toses.",
+      "category": "Travel",
+      "generated_at": "2026-11-27T11:36:14.110253"
+    },
+    {
+      "english": "Do you speak, English?",
+      "hebrew": "אתה מדבר, אנגלית?",
+      "transliteration": "Ata medaber, Anglit?",
+      "category": "Travel",
+      "generated_at": "2026-11-27T11:36:14.110258"
     }
   ],
-  "last_updated": "2026-11-26T22:54:09.308227"
+  "last_updated": "2026-11-27T11:36:14.110260"
 }
